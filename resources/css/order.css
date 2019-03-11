@@ -1,0 +1,805 @@
+.oh {
+    overflow: hidden;
+}
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+.tod {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.bold {
+    font-weight: bold;
+}
+.right {
+    text-align: right;
+}
+.white {
+    color: #fff;
+}
+.gray {
+    color: #333;
+}
+.green {
+    color: #3AA11A;
+}
+.color999 {
+    color: #999;
+}
+.mt10 {
+    margin-top: 0.266667rem;
+}
+.mbottom10 {
+    margin-bottom: 0.266667rem;
+}
+.mbottom140{
+    margin-bottom: 1.866667rem;
+}
+.mr {
+    margin-right: 0.266667rem;
+}
+.pd10 {
+    padding-bottom: 0.266667rem;
+}
+.border {
+    border-bottom: 1px solid #ddd;
+}
+.i {
+    font-style: normal;
+    position: absolute;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    border-radius: 2px;
+}
+.btn {
+    line-height: 100%;
+    border-radius: 3px;
+}
+.btn-linear {
+    color: #FF4B41;
+    border: 1px solid #FF4B41;
+    padding: 0.193333rem 0.533333rem;
+    display: inline-block;
+    border-radius: 0.666667rem
+}
+.disabled {
+    color: #666;
+    border: 1px solid #ddd;
+}
+[data-dpr="1"] .t11 {
+    font-size: 11px;
+}
+[data-dpr="2"] .t11 {
+    font-size: 22px;
+}
+[data-dpr="3"] .t11 {
+    font-size: 33px;
+}
+[data-dpr="1"] .t12 {
+    font-size: 12px;
+}
+[data-dpr="2"] .t12 {
+    font-size: 24px;
+}
+[data-dpr="3"] .t12 {
+    font-size: 36px;
+}
+[data-dpr="1"] .t13 {
+    font-size: 13px;
+}
+[data-dpr="2"] .t13 {
+    font-size: 26px;
+}
+[data-dpr="3"] .t13 {
+    font-size: 39px;
+}
+[data-dpr="1"] .t14 {
+    font-size: 14px;
+}
+[data-dpr="2"] .t14 {
+    font-size: 28px;
+}
+[data-dpr="3"] .t14 {
+    font-size: 42px;
+}
+[data-dpr="1"] .t15 {
+    font-size: 15px;
+}
+[data-dpr="2"] .t15 {
+    font-size: 30px;
+}
+[data-dpr="3"] .t15 {
+    font-size: 45px;
+}
+[data-dpr="1"] .t16 {
+    font-size: 16px;
+}
+[data-dpr="2"] .t16 {
+    font-size: 32px;
+}
+[data-dpr="3"] .t16 {
+    font-size: 48px;
+}
+[data-dpr="1"] .t18 {
+    font-size: 18px;
+}
+[data-dpr="2"] .t18 {
+    font-size: 36px;
+}
+[data-dpr="3"] .t18 {
+    font-size: 54px;
+}
+[data-dpr="1"] .t20 {
+    font-size: 20px;
+}
+[data-dpr="2"] .t20 {
+    font-size: 40px;
+}
+[data-dpr="3"] .t20 {
+    font-size: 60px;
+}
+.container {
+    position: absolute;
+    top: 1.186667rem;
+    bottom: 0;
+    left: 0;
+    /*overflow-x: hidden;*/
+    /*overflow-y: auto;*/
+    width: 100%;
+    background-color: #f5f5f5;
+}
+.container .order-bg {
+    background: #fff;
+}
+.container .delivery-state {
+    position: relative;
+    height: 1.866667rem;
+    background: #fff;
+    padding: 0.266667rem;
+    color: #031324;
+}
+.delivery-state .state-right {
+    position: absolute;
+    right: 0.266667rem;
+    top: 0.933333rem;
+}
+.delivery-state .staff-info {
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+}
+.star-five {
+    color: #FFC600;
+    margin-right: 2px;
+}
+.delivery-state.unpay {
+    background-image: linear-gradient(-270deg, #FF4B41 0%, #FF851E 100%);
+}
+.unpay .staff-info {
+    line-height: 1.866667rem;
+}
+.staff-info .staff-info-profile img {
+    width: 1.6rem;
+    height: 1.6rem;
+    border-radius: 50%;
+    margin-right: 0.4rem;
+}
+.staff-info .staff-info-desc {
+    -webkit-box-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+    overflow: hidden;
+}
+.staff_info{
+    font-size:0.346667rem;
+}
+.staff-info-name2{
+    color: #FF4B41;
+}
+.staff-info .desc2{
+    line-height: 1.86rem;
+}
+.staff-info .staff-info-num {
+    color: #858791;
+}
+.container .order-info, .container .sell-cash {
+    position: relative;
+    padding-left: 1.0rem;
+    background: #fff;
+}
+.order-info .bg, .sell-cash .bg {
+    width: 0.48rem;
+    height: 0.48rem;
+    background: url(//gfs11.gomein.net.cn/T1rgLvB7Dv1RCvBVdK.png) center center no-repeat;
+    background-size: 100%;
+    display: block;
+    position: absolute;
+    top: 0.493333rem;
+    left: 0.266667rem;
+}
+.order-info .bg2, .sell-cash .bg2{
+    background-image: url(//gfs12.gomein.net.cn/T1iXZgB5YT1RCvBVdK.png);
+}
+.order-info .desc {
+    padding: 0.266667rem 0.666667rem 0 0;
+    border-top: 1px solid #ddd;
+}
+.order-info .desc2 {
+    color:#4A90E2;
+}
+.order-info .pgphone a {
+    color: #1ac6bc;
+}
+.container .sell-cash {
+    padding: 0.4rem 0.32rem 0.4rem 1.6rem;
+}
+.sell-cash .bg {
+    width: 1.066667rem;
+    height: 1.066667rem;
+    background: url(//gfs11.gomein.net.cn/T1qMdvBgJ_1RCvBVdK.png) center center no-repeat;
+    background-size: 100%;
+}
+.public .bg {
+    width: 0.373333rem;
+    height: 0.426667rem;
+    background: url(//gfs12.gomein.net.cn/T14gCvBjZv1RCvBVdK.png) center center no-repeat;
+    background-size: 100%;
+}
+.sell-cash .t12 {
+    line-height: 0.586667rem;
+}
+.order-shopBar {
+    display: block;
+    position: relative;
+    height: 1.066667rem;
+    line-height: 1.066667rem;
+    background: #fff;
+}
+.order-shopBar:before {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    width: 0.48rem;
+    height: 0.48rem;
+    margin: -0.133333rem 0.266667rem 0 0.266667rem;
+    background: url(//gfs13.gomein.net.cn/T1_9WvBgDv1RCvBVdK.png) no-repeat;
+    background-size: 100%;
+}
+.list-line {
+    background-color: #fff;
+}
+.list-line2 {
+    background-color: #f8f8f8;
+}
+.list-line li {
+    position: relative;
+    padding: 0 0 0 0.266667rem;
+}
+.list-line li:not(:last-of-type) {
+    border-bottom: 1px solid #e3e3e3;
+}
+.list-line .faultdesc {
+    line-height: 0.586667rem;
+    padding: 0.266667rem 0.32rem;
+}
+.list-line .order-type {
+    line-height: 0.586667rem;
+    padding: 0.266667rem 0.32rem;
+}
+.order-type span {
+    position: absolute;
+    right: 0.32rem;
+}
+.goods-show {
+    /*background-color: #fff;*/
+}
+.goods-show .list-text.icon li {
+    box-sizing: border-box;
+    padding: 0.16rem 0.266667rem 0.16rem 2.56rem;
+}
+.goods-show .list-text.icon .text-icon {
+    position: absolute;
+    display: block;
+    left: 0;
+    width: 2.026667rem;
+    height: 2.026667rem;
+}
+.goods-show .list-text.icon .text-detail {
+    position: relative;
+    line-height: 0.533333rem;
+}
+.text-detail .install-edit {
+    padding-right: 0.266667rem;
+}
+.text-detail .install-edit .i-gt {
+    top: 65%;
+    right: 0;
+    width: 0.16rem;
+    height: 0.16rem;
+}
+.goods-show .list-text.icon .title {
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -moz-line-clamp: 2;
+    -ms-line-clamp: 2;
+    -o-line-clamp: 2;
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -ms-box-orient: vertical;
+    -o-box-orient: vertical;
+    box-orient: vertical;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-box;
+    display: -o-box;
+    display: box;
+    word-break: break-all;
+}
+.container .i-gt {
+    position: absolute;
+    width: 0.266667rem;
+    height: 0.266667rem;
+    top: 50%;
+    right: 0.453333rem;
+    margin-top: -0.16rem;
+    border: 1px solid #999;
+    border-left-color: transparent;
+    border-bottom-color: transparent;
+    transform: rotate(45deg);
+}
+.container .i-lt {
+    width: 0.266667rem;
+    height: 0.266667rem;
+    border: 1px solid #999;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    -webkit-transform: rotate(135deg);
+    transform: rotate(135deg);
+}
+.container li.center-text {
+    line-height: 1.066667rem;
+    text-align: center;
+    color: #666;
+    border-style: none;
+}
+.center-text .center-text-btn {
+    position: relative;
+    display: inline-block;
+    padding-right: 0.48rem;
+}
+.center-text-btn .i {
+    top: 0.32rem;
+    right: 0;
+    -webkit-transform: rotate(135deg);
+    transform: rotate(135deg);
+}
+.center-text-btn .i-lt {
+    top: 0.45rem;
+}
+.after-service {
+    position: relative;
+    margin-left: 0.32rem;
+    height: 1.386667rem;
+}
+.after-service .btn-linear {
+    float: right;
+    margin-top: 0.373333rem;
+    padding: 0.133333rem 0.266667rem;
+}
+.after-service .after-layer {
+    position: absolute;
+    top: 1.4rem;
+    right: 0.266667rem;
+    z-index: 1000;
+    background: #4A4848;
+    border-radius: 4px;
+}
+.after-layer .triangle-up {
+    position: absolute;
+    right: 0.266667rem;
+    width: 0;
+    height: 0;
+    color: #fff;
+    text-align: center;
+    border-left: 0.16rem solid transparent;
+    border-right: 0.16rem solid transparent;
+    border-bottom: 0.16rem solid #4A4848;
+    margin-top: -0.16rem;
+}
+.after-layer ul {
+    background: #4A4848;
+    width: 2.666667rem;
+    border-radius: 4px;
+}
+.after-layer ul li {
+    width: 100%;
+    height: 1.066667rem;
+    line-height: 1.066667rem;
+    color: #F7F7F7;
+    text-align: center;
+}
+.after-layer ul li:not(:last-child):after {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    display: inline-block;
+    width: 80%;
+    height: 1px;
+    background: #5B5A5D;
+    margin-top: -45%;
+}
+.custom-service {
+    display: -webkit-box;
+    display: box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -webkit-box-pack: center;
+    -moz-box-pack: center;
+    box-align: center;
+    box-pack: center;
+    align-items: center;
+    -webkit-align-items: center;
+    justify-content: center;
+    -webkit-justify-content: center;
+    background: #fff;
+    color: #FF4B41;
+    margin-left: 0.32rem;
+}
+.custom-service li {
+    display: block;
+    -webkit-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-flex: 1;
+    flex: 1;
+    line-height: 1.386667rem;
+    text-align: center;
+}
+.custom-service li .icon {
+    display: inline-block;
+    width: 0.533333rem;
+    height: 0.533333rem;
+    margin-right: 0.266667rem;
+    vertical-align: middle;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 0.533333rem 0.533333rem;
+}
+.custom-service li .seller-tel {
+    background-image: url(//gfs12.gomein.net.cn/T1PgVvB_h_1RCvBVdK.png);
+}
+.custom-service li .service-tel {
+    background-image: url(//gfs10.gomein.net.cn/T1lgYvB7JQ1RCvBVdK.png);
+}
+.list-labelvalue {
+    line-height: 0.56rem;
+    background-color: #fff;
+    padding-left: 0.32rem;
+}
+.list-labelvalue li {
+    position: relative;
+}
+.list-labelvalue li:not(:last-child) {
+    border-bottom: 1px solid #ddd;
+}
+.list-labelvalue li div {
+    position: relative;
+    overflow: hidden;
+    line-height: 0.64rem;
+}
+.list-labelvalue .value {
+    float: right;
+    color: #666;
+    padding-right: 0.266667rem;
+}
+.list-labelvalue li .copy-layer {
+    position: absolute;
+    right: 0.266667rem;
+    top: -70%;
+    z-index: 99999;
+    background: #333;
+    border-radius: 4px;
+}
+.copy-layer .triangle-down {
+    position: absolute;
+    right: 36%;
+    width: 0;
+    height: 0;
+    color: #fff;
+    text-align: center;
+    border-left: 0.24rem solid transparent;
+    border-right: 0.24rem solid transparent;
+    border-top: 0.24rem solid #333;
+}
+a.copyBtn {
+    display: inline-block;
+    width: 2.133333rem;
+    line-height: 0.96rem;
+    color: #fff;
+    border-radius: 4px;
+    text-align: center;
+}
+.area-info {
+    position: relative;
+    padding: 0.266667rem 0 0.266667rem 0.666667rem;
+    line-height: 0.533333rem;
+}
+.area-info .bg {
+    width: 0.48rem;
+    height: 0.48rem;
+    background: url(//gfs13.gomein.net.cn/T1l9xvB7hQ1RCvBVdK.png) center center no-repeat;
+    background-size: 100%;
+    position: absolute;
+    left: 0;
+    top: 0.613333rem;
+}
+.area-info .info-box {
+    position: relative;
+    color: #333;
+}
+.info-box span {
+    margin-left: 0.28rem;
+    line-height: 0.64rem;
+}
+#ordersDetail .list-labelvalue li {
+    padding: 0.266667rem 0;
+}
+#ordersDetail .tip {
+    line-height: 1.173333rem;
+    position: relative;
+    overflow: hidden;
+    color: #333;
+}
+#ordersDetail .tip .fr {
+    text-align: right;
+}
+#ordersDetail .fs16 {
+    line-height: 0.666667rem;
+}
+.virtual .list-labelvalue .value {
+    float: none;
+    width: auto;
+}
+.order-btn, .footer {
+    width: 100%;
+    /*height: 1.386667rem;*/
+    /*line-height: 1.386667rem;*/
+    background: #FF4B41;
+    color: #fff;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+.footer {
+    text-align: right;
+    background-color: #fff;
+    overflow: hidden;
+    color: #666;
+    z-index: 1000;
+}
+.footer span{
+    margin:0.266667rem 0.133333rem;
+}
+#ordersDetail {
+    line-height: 0.586667rem;
+}
+/*退款订单*/
+.ml32{
+    margin-left: 0.426667rem;
+}
+.delivery-state-img{
+    width:1.6rem;
+    height: 1.6rem;
+    border-radius: 50%;
+    margin-left: 0.266667rem;
+}
+.refund_design_z{
+    height: 1.586667rem;
+    background: #fff;
+    padding-top: 0.853333rem;
+}
+.refund_lvl_z{
+    background: #fff;
+}
+.refund_design{
+    width: 7.866667rem;
+    margin:0 auto;
+    margin-bottom:1.68rem;
+    border-top:0.053333rem solid #d8d8d8;
+    position: relative;
+    background: #fff;
+}
+.refund_design1{
+    position: absolute;
+    top: -0.35rem;
+    width: 0.64rem;
+}
+.refund_design2{
+    left: 50%;
+    margin-left: -0.32rem;
+}
+.refund_design3{
+    position: absolute;
+    top: -0.35rem;
+    right: 0;
+}
+.refund_design1 p{
+    width: 1.8rem;
+    position: absolute;
+    top:0.806667rem;
+    left: 50%;
+    margin-left: -0.9rem;
+    text-align: center;
+    font-size: 0.373333rem;
+    line-height: 0.533333rem;
+    color: #d8d8d8;
+}
+.refund_design1 span{
+    border: 1px solid #d8d8d8;
+    border-radius: 50%;
+    width: 0.64rem;
+    height: 0.64rem;
+    position: relative;
+    margin: 0 auto;
+    display: block;
+    background: #fff;
+    box-sizing:border-box;
+}
+.refund_design1 span i{
+    width: 0.48rem;
+    height: 0.48rem;
+    border-radius: 50%;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    margin-top: -0.24rem;
+    margin-left: -0.24rem;
+    background: #d8d8d8;
+    line-height: 0.48rem;
+    text-align: center;
+    color: #fff;
+    font-size: 0.373333rem;
+}
+.refund_design1 .ac{
+    border: 1px solid #FF4B41;
+}
+.refund_design1 span .aci{
+    background: #FF4B41;
+}
+.refund_design1 .acp{
+    color: #FF4B41;
+}
+/*退款状态*/
+.refund_sotp{
+    padding-left:0.533333rem;
+    background: #fff;
+}
+.refund_sotp_p1{
+    font-size: 0.533333rem;
+    line-height: 0.746667rem;
+    color:#333;
+    padding-top: 0.533333rem;
+}
+.refund_sotp_p2{
+    font-size: 0.426667rem;
+    line-height: 0.586667rem;
+    color:#333;
+    margin-top: 0.133333rem;
+}
+.refund_sotp_p2 span{
+    color: #FF4B41;
+}
+.refund_sotp_p3{
+    font-size: 0.373333rem;
+    line-height: 0.533333rem;
+    color:#999;
+    margin-top: 0.133333rem;
+}
+/*退款状态*/
+/*退款履历*/
+.refund_lvl{
+    position: relative;
+    width: 9.6rem;
+    margin-left: 0.4rem;
+    overflow: hidden;
+}
+.refund_lvl_l{
+    position: absolute;
+    top: 8%;
+    left: 0.2rem;
+    height:94%;
+    border: 0.5px solid #d8d8d8;
+}
+.refund_lvl_r{
+    width: 8.61rem;
+    padding: 0.266667rem 0;
+    color: #999;
+    font-size: 0.346667rem;
+    line-height:0.48rem;
+    padding-right: 0.266667rem;
+    position: relative;
+}
+.refund_lvl_r:last-child
+{
+    border-bottom:0;
+}
+.refund_lvl_r i{
+    width: 0.266667rem;
+    height: 0.266667rem;
+    background:#3AA11A;
+    border-radius: 50%;
+    position: absolute;
+    top:0.4rem;
+    left:-0.63rem;
+}
+.refund_lvl_r .p{
+    color:#3AA11A;
+}
+.refund_lvl_r span{
+    padding-top: 0.066667rem;
+}
+.refund_lvl_r i strong{
+    width: 0.266667rem;
+    height: 6.666667rem;
+    position: absolute;
+    top: 0.266667rem;
+    background: #fff;
+}
+/*退款履历*/
+/*点击查看履历*/
+.refund_TF_z{
+    background: #fff;
+    height: 1.173333rem;
+}
+.refund_TF{
+    width: 3.5rem;
+    font-size: 0.346667rem;
+    line-height: 1.173333rem;
+    margin: 0 auto;
+    position: relative;
+    color: #FF4B41;
+    text-align: center;
+}
+.refund_TF span{
+    position: absolute;
+    top: 0.35rem;
+    right: -0.35rem;
+    width: 0.48rem;
+    height:0.48rem;
+    background:url(//gfs10.gomein.net.cn/T1AQdQBCYT1RCvBVdK.png) no-repeat;
+    background-size: cover;
+}
+.refund_TF .s{
+    background-image:url(//gfs12.gomein.net.cn/T1T3C_BQJT1RCvBVdK.png);
+}
+.dzzq{
+    height:1.173333rem;
+    background: #fff;
+    line-height: 1.173333rem;
+    text-align: center;
+    font-size: 0.346667rem;
+    color: #333;
+    margin:0.266667rem 0 0.5rem 0;
+}
+.order-info-d1{
+    background:#fff;
+    margin-top: 0.266667rem;
+}
+.list-tk_li{
+    border-top: 1px solid #ddd;
+}
+/*点击查看履历*/
+.container .order-info .bTn{
+    border-top: 0;
+}
+/*退款订单*/

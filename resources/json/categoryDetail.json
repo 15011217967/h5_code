@@ -1,0 +1,29 @@
+{
+	"rpco":200,
+	"tsrp":1509954051364,
+	"body":
+		{
+			"cgcode":0,
+			"cgname":"【管家推荐a】烟机免拆洗套餐",
+			"cgpic":"http://img.gomegj.com/jikexiumanage/img/upload/images/2017/08/29/1503986645803.jpg",
+			"cgilist":[
+				{"iurl":"http://img.gomegj.com/jikexiumanage/img/upload/images/2017/07/27/1501138648094.jpg","itag":0}
+			],
+			"cccl":[{
+					"cten":"",
+					"ctid":0,
+					"ctcl":[
+						{"cgcd":100,"cgcp":18800,"cgcn":"(烟机+滚桶洗衣机)","cgop":23800},
+						{"cgcd":85,"cgcp":18800,"cgcn":"(烟机+波轮洗衣机)","cgop":23800},
+						{"cgcd":86,"cgcp":18800,"cgcn":"(烟机+壁挂空调)","cgop":23800},
+						{"cgcd":172,"cgcp":25800,"cgcn":"(烟机+灶具+非对开门冰箱)","cgop":29600},
+						{"cgcd":131,"cgcp":16900,"cgcn":"(烟机免拆洗+灶具)","cgop":19800},
+						{"cgcd":91,"cgcp":18800,"cgcn":"(烟机+电热水器)","cgop":23800},
+						{"cgcd":132,"cgcp":19800,"cgcn":"(烟机拆洗+灶具)","cgop":23800},
+						{"cgcd":75,"cgcp":18800,"cgcn":"(烟机+非对开门冰箱)","cgop":23800},
+						{"cgcd":92,"cgcp":25800,"cgcn":"(烟机+灶具+热水器)","cgop":29600}
+					]
+				}],
+			"priceMap":{}
+		}
+}

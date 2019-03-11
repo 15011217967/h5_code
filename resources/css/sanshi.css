@@ -1,0 +1,826 @@
+/*common:START*/
+u {
+    text-decoration: none;
+}
+
+.disabled {
+    background-color: #e0e0e0;
+}
+
+#serviceWay .value {
+    color: #333;
+}
+
+
+/*/common:end*/
+
+
+/*recycle回收维修通用页面：start*/
+
+#recrepName .brand-name {
+    overflow: hidden;
+    margin-top: .15rem;
+}
+
+#recrepName .brand-grid {
+    padding-left: .12rem;
+}
+
+#recrepName .brand-grid a {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    color: #333;
+    border: 1px solid rgba(227, 227, 227, 1);
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+#recrepName .brand-grid li {
+    line-height: .41rem;
+    float: left;
+    box-sizing: border-box;
+    width: 33.33%;
+    margin-bottom: .12rem;
+    padding-right: .12rem;
+}
+
+#recrepName .active a {
+    position: relative;
+    border: 1px solid rgba(255, 75, 70, 1);
+}
+
+#recrepName .active a::before {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: .2rem;
+    height: .2rem;
+    content: '';
+    background-image: url('../img/left_corner.png');
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+
+/*recycle回收维修通用页面：end*/
+
+
+/*setmodel设置型号：start*/
+#addFailover{
+    font-size: .14rem;
+}
+#addFailover .brand-list {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(227, 227, 227, 1);
+    background-color: #fff;
+}
+#addFailover .container{
+    bottom: .5rem;
+    overflow: hidden;
+}
+#addFailover .brand-list ul {
+    overflow: hidden;
+}
+
+#addFailover li .value{
+    float:right;
+    font-style: normal;
+    color: #1ac6bc;
+}
+#addFailover .brand-list i{
+    font-style:normal;
+}
+#addFailover .brand-list label {
+    padding-left:.12rem;
+    line-height: .45rem;
+    display: inline-block;
+    width: 100%;
+}
+
+
+
+#setModel .brand-grey,
+#addFailover .brand-grey {
+    background-color: #f5f5f5;
+}
+
+#addFailover .brand-grey li {
+    padding-left: .12rem;
+}
+
+#setModel .brand-grey li:not(:last-child),
+#addFailover .brand-grey li:not(:last-child) {
+    border-bottom: 1px solid rgb(233, 233, 233);
+}
+#setModel .container{
+    overflow: hidden;
+}
+#addFailover .brand-grey label {
+    padding-left: .12rem;
+}
+
+
+/*// 2016/1027*/
+#addFailover #failoverList,
+#setModel #brandList {
+    padding-right: 0;
+    padding-left: 0;
+    border: none;
+    /*border-bottom: 1px solid transparent;*/
+}
+#addFailover #failoverList a,
+#setModel #brandList a {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    color: #333;
+}
+
+#addFailover ul .innerul{
+    padding-left:.12rem;
+}
+#setModel ul .innerul {
+    margin-left: -.12rem;
+    padding-left: .12rem;
+}
+
+#addFailover ul>li,
+#setModel ul > li {
+    overflow: hidden;
+    padding-left: .12rem;
+}
+
+#setModel #brandList .innerul li {
+    padding-left: .16rem;
+}
+
+#setModel #brandList label {
+    width: 100%;
+    height: 100%;
+}
+
+
+/*setmodel设置型号：end*/
+
+
+/*setEstInfo设置评估信息：start*/
+
+#setEstInfo .container {
+    top: 1.33rem;
+    bottom: .5rem;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 .2rem;
+    background-color: #fff;
+}
+
+#setEstInfo .progress-bar span {
+    position: absolute;
+    top: 0;
+    right: -.07rem;
+    width: .16rem;
+    height: .16rem;
+    border-radius: 50%;
+    background-color: #ff4b46;
+}
+
+#setEstInfo .progress-bar label {
+    position: absolute;
+    top: 0;
+    right: -.02rem;
+    z-index: 101;
+}
+
+#setEstInfo .progress {
+    position: absolute;
+    z-index: 2;
+    top: .42rem;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+#setEstInfo .progress-bar {
+    font-size: .12rem;
+    position: relative;
+    width: 2%;
+    height: .16rem;
+    text-align: right;
+    color: #fff;
+    border-top: 1px solid #cccccc;
+}
+
+#setEstInfo .tab-header {
+    font-size: .18rem;
+    height: .72rem;
+    border-top: 1px solid #ccc;
+    background-color: #fff;
+}
+
+#setEstInfo .go-prev {
+    position: absolute;
+    left: .3rem;
+    width: .24rem;
+    height: .72rem;
+    background: center center url('../img/prev_info.png') no-repeat;
+    background-size: contain;
+}
+
+#setEstInfo .tab-header div {
+    line-height: .72rem;
+    text-align: center;
+}
+
+#setEstInfo .container li {
+    line-height: .44rem;
+    height: .44rem;
+    position: relative;
+    width: 100%;
+    margin-bottom: .08rem;
+    text-align: center;
+    border: 1px solid #f3f3f3;
+    border-radius: 3px;
+    background-color: #f3f3f3;
+}
+
+#setEstInfo .container li.active {
+    border: 1px solid #ff4b46;
+    color:#ff4b46;
+    background-color: #fff;
+}
+
+#setEstInfo .container span {
+    position: absolute;
+    top: .18rem;
+    right: .1rem;
+    width: .11rem;
+    height: .075rem;
+    content: '';
+}
+
+#setEstInfo li.active span {
+    background:url('../img/selected.png') no-repeat;
+    background-size:100%;
+}
+
+#setEstInfo li label {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+#setEstInfo li input{
+    visibility: hidden;
+}
+
+#setEstInfo .footer,
+#setEstResult .footer {
+    text-align: center;
+}
+
+#setEstInfo .footer a,
+#setEstResult .footer a {
+    line-height: .5rem;
+    width: 100%;
+    color: #fff;
+}
+
+#setEstInfo .show {
+    display: block;
+}
+
+#setEstInfo .hide {
+    display: none;
+}
+
+
+/*setEstInfo设置评估信息：end*/
+
+
+/*setestresult评估结果：start*/
+
+#setEstResult .result-header {
+    font-size: .14rem;
+    width: 100%;
+    height: 1rem;
+    margin-bottom: .1rem;
+    padding: .2rem .12rem;
+    background: center center url('../img/bg_result.jpg') no-repeat;
+    background-size: cover;
+}
+
+#setEstResult .result-header div {
+    color: #fff;
+}
+
+#setEstResult .result-header a {
+    line-height: .28rem;
+    position: absolute;
+    top: .56rem;
+    right: .12rem;
+    width: .78rem;
+    text-align: center;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 2px;
+}
+
+#setEstResult .list-labelvalue {
+    margin-bottom: .1rem;
+}
+
+textarea {
+    font-size: .14rem;
+    float: right;
+    overflow-y: hidden;
+    box-sizing: border-box;
+    width: 65%;
+    height: .44rem;
+    padding: .14rem 0;
+}
+
+#setEstResult label {
+    font-size: .14rem;
+    font-size: 14px;
+}
+
+#setEstResult .choiced {
+    color: #333;
+}
+
+#repairAppoint #serviceAddr,
+#setEstResult #serviceAddr {
+    padding-top: .14rem;
+    padding-bottom: .14rem;
+    line-height: 1;
+}
+
+#repairAppoint #serviceAddr .name,
+#repairAppoint #serviceAddr .addr-detail,
+#setEstResult #serviceAddr .name,
+#setEstResult #serviceAddr .addr-detail {
+    display: inline-block;
+    width: 92%;
+}
+#repairAppoint .coupon{
+    line-height: .22rem;
+    padding: .1rem 0;
+}
+#serviceAddr .name {
+    line-height: .26rem;
+    font-weight: bold;
+    font-size: .14rem;
+}
+
+#serviceAddr .addr-detail {
+    line-height: 1.3;
+    font-size: .12rem;
+}
+
+#device i,
+#deviceBrand i,
+#deviceModel i,
+#serviceTime i,
+#serviceAddr i {
+    border-right: 1px solid #999;
+    border-top: 1px solid #999;
+    /*background-color:red;*/
+    right: .12rem;
+    top: 50%;
+    -webkit-transform: translateY(-50%) rotate(45deg);
+    transform: translateY(-50%) rotate(45deg);
+}
+
+#repairAppoint .list-labelvalue,
+#setEstResult .list-labelvalue {
+    padding-right: 0;
+}
+
+#repairAppoint .list-labelvalue li,
+#setEstResult .list-labelvalue li {
+    padding-right: .12rem;
+}
+
+#repairAppoint #serviceWay .value,
+#setEstResult #serviceWay .value {
+    padding-right: 0;
+}
+
+#repairAppoint .value,
+#setEstResult .value {
+    padding-right: .12rem;
+}
+
+
+/*setestresult评估结果：end*/
+
+
+/*repairappoint预约维修：start*/
+
+#repairAppoint {
+    font-size: .14rem;
+}
+
+#repairAppoint .choiced {
+    color: #333;
+}
+
+#repairAppoint .list-labelvalue {
+    border: 0;
+}
+
+#repairAppoint ul {
+    margin-bottom: .1rem;
+}
+
+#failover .failover-info {
+    padding: .15rem 0;
+}
+
+#failover .failover-info span {
+    display: inline-block;
+    width: 92%;
+}
+
+#failover i {
+    right: .12rem;
+
+}
+
+#failover div {
+    font-size: .12rem;
+    line-height: 1.4;
+}
+
+#failover .js-error {
+    position: absolute;
+    /*top: .2rem;*/
+    right: 0;
+    width: .4rem;
+    height: .4rem;
+        top: 50%;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#failover div label {
+    width: .35rem;
+    text-align: justify;
+}
+
+#failover-detail {
+    margin-left: -.12rem;
+}
+
+#failover-detail label {
+    margin-left: .12rem;
+}
+
+#failover-detail a {
+    line-height: .28rem;
+    width: .78rem;
+    margin-top: .08rem;
+    padding-right: 0;
+    text-align: center;
+    color: #ff4b46;
+    border: 1px solid #ff4b46;
+    border-radius: 3px;
+}
+
+#repairAppoint .list-gap {
+    height: .35rem;
+    margin-bottom: .5rem;
+}
+
+#repairAppoint .footer b {
+    color: #ff4b46;
+}
+
+#repairAppoint .footer span {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#repairAppoint .footer .left {
+    float: left;
+    width: 55%;
+    padding-left: .12rem;
+    background-color: #fff;
+}
+
+#repairAppoint .footer .right {
+    font-size: .18rem;
+    float: right;
+    width: 45%;
+    text-align: center;
+    color: #fff;
+}
+
+#repairAppoint .footer span {
+    line-height: .5rem;
+}
+
+
+#repairAppoint #failover-detail .value {
+  padding-right: 0;
+}
+/*repairappoint预约维修：end */
+
+
+/*addfailover添加故障：start*/
+
+
+#addFailover input {
+    position: absolute;
+    top: .15rem;
+    width: .14rem;
+    height: .14rem;
+    border: 1px solid #999;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+
+/*link hover visited active */
+
+#addFailover #failoverList li {
+    position: relative;
+    padding-left: 0;
+}
+
+#addFailover #failoverList ul label {
+    padding-left: .24rem;
+}
+
+#addFailover .footer span{
+    width:100%;
+    height:100%;
+    margin:0;
+    background-color: #ff4b46;
+    font-size:.16rem;
+}
+#addFailover .disabled span,
+#addFailover .disabled{
+    background-color: #e0e0e0;
+}
+/*addfailover添加故障：end*/
+
+
+/*commonList通用的列表页：start*/
+
+#setEstResult #setTime ul,
+#commonList .container ul {
+    padding-right: 0;
+}
+
+#setEstResult #setTime li,
+#commonList .container li {
+    overflow: inherit;
+}
+
+#setEstResult #setTime label,
+#commonList .container label {
+    width: 100%;
+    margin-left: -.12rem;
+    padding-left: .12rem;
+}
+
+#setEstResult #setTime label:active,
+#commonList .container label:active {
+    background-color: rgba(0, 0, 0, .1);
+}
+
+
+/*commonList通用的列表页：end*/
+
+
+/*repairindex：回首首页：start*/
+
+#selectArea,
+#selectArea {
+    color: #333;
+}
+
+#selectArea::after {
+    background: center center url(../img/jtbg_grey.png) no-repeat;
+    background-size: contain;
+}
+
+#repairCategory .container ul {
+    overflow: hidden;
+    padding-top: .3rem;
+    background-color: #fff;
+}
+
+#repairCategory .container li {
+    float: left;
+    width: 33.33%;
+    margin-bottom: .3rem;
+    text-align: center;
+}
+
+#repairCategory .container a {
+    font-size: .14rem;
+    display: inline-block;
+    width: 100%;
+    text-decoration: none;
+    color: #333;
+}
+
+#repairCategory #brand-grid span {
+    display: inline-block;
+    width: 100%;
+    height: .4rem;
+    margin-bottom: .1rem;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+}
+
+#repairCategory .tip {
+    padding-left: .23rem;
+    margin-bottom: .2rem;
+}
+
+#repairCategory h3,
+#repairCategory p {
+    color: #777;
+}
+
+#repairCategory .tip span {
+    color: #333;
+}
+
+#repairCategory h3 {
+    font-size: .14rem;
+    line-height: 2;
+}
+
+#repairCategory p {
+    font-size: .13rem;
+    line-height: 1.5;
+}
+
+
+/*repairindex：回首首页：end*/
+
+
+/*oftenaddress业务地址选择 :start */
+
+#oftenaddress #list ul {
+    padding-right: 0;
+    margin-bottom: .1rem;
+}
+#oftenaddress .container{
+    bottom: .5rem;
+}
+#oftenaddress #list .del-list {
+    height: .2rem;
+}
+
+#oftenaddress #list li {
+    padding-right: .12rem;
+    position: relative;
+}
+
+#oftenaddress #list li label {
+    display: inline-block;
+    width: 92%;
+    height: 100%;
+}
+
+#oftenaddress input {
+    position: absolute;
+    top: 50%;
+    right: .12rem;
+    width: .14rem;
+    height: .14rem;
+    -webkit-transform: translateY(-.07rem);
+    transform: translateY(-.07rem);
+    border: 1px solid #999;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+}
+
+#oftenaddress input:checked {
+    border: 1px solid #ff4b46;
+    background: center center url('../img/choose1_active.png') no-repeat;
+    -webkit-background-size: contain;
+    background-size: contain;
+}
+
+#oftenaddress #list i {
+    right: .12rem;
+    width: .45rem;
+    text-align: right;
+    font-size: .12rem;
+}
+
+#oftenaddress #list .i-delete {
+    background: left center url('../img/del3.png') no-repeat;
+    background-size: contain;
+}
+
+#oftenaddress #list .i-edit {
+    right: .77rem;
+    background: left center url('../img/edit.png') no-repeat;
+    background-size: contain;
+}
+
+#oftenaddress .btn-footer {
+    background-color: #ff4b46;
+}
+
+#oftenaddress .i-noaddr {
+    width: .525rem;
+    height: .65rem;
+    background: url('../img/noaddr.png') no-repeat;
+    background-size: 100%;
+}
+
+#oftenaddress #list .text-detail {
+    line-height: 1.5;
+}
+
+#oftenaddress #list .name {
+    line-height: 1.9;
+}
+
+#oftenaddress #list .active {
+    color: #ff4a4b;
+}
+
+
+/*oftenaddress业务地址选择 :end*/
+
+
+/*维修业务，回收业务slide:start*/
+
+#recrepName #slideBox1,
+#repairCategory #slideBox1 {
+    /*top:42px;*/
+}
+
+#slideBox1 li img,
+#slideBox1 li img {
+    height: 1.8rem;
+}
+
+#recrepName #slideBox1 .hd,
+#repairCategory #slideBox1 .hd {
+    /*bottom:40px;*/
+}
+
+#recrepName #hd ul,
+#repairCategory #hd ul {
+    overflow: inherit;
+    padding-top: 0;
+    background-color: transparent;
+}
+
+#recrepName #hd li,
+#repairCategory #hd li {
+    float: none;
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.3);
+    text-indent: -9999px;
+    overflow: hidden;
+    margin: 0 6px;
+}
+
+#recrepName #hd li.on,
+#repairCategory #hd li.on {
+    background-color: #fff;
+}
+
+
+/*维修业务，回收业务slide:end*/
+
+
+/*优惠券：start*/
+
+#addCoupon #confirm {
+    position: absolute;
+    top: 0;
+    right: .12rem;
+    width: 2em;
+    height: 100%;
+}
+
+#addCoupon .list-labelvalue {
+    padding-right: 0;
+}
+
+#addCoupon .list-labelvalue input {
+    text-align: left;
+}
+
+
+/*优惠券：end*/

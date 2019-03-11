@@ -1,0 +1,118 @@
+{
+    "rpco": 200,
+    "tsrp": 1510730902244,
+    "body": {
+        "coulst": [
+            {
+                "coutp": 1,
+                "counum": "15BQ2B",
+                "counm": "测试6位",
+                "couat": "清洗",
+                "coumat": "30",
+                "coucut": 1509984000000,
+                "coucute": 1510812560000,
+                "coumy": 3000,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "1EXJSY",
+                "counm": "测试6位",
+                "couat": "清洗",
+                "coumat": "30",
+                "coucut": 1509984000000,
+                "coucute": 1510812608000,
+                "coumy": 3000,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "S77KW3",
+                "counm": "测试6位",
+                "couat": "清洗",
+                "coumat": "30",
+                "coucut": 1509984000000,
+                "coucute": 1510812652000,
+                "coumy": 3000,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "06BY9R",
+                "counm": "测试6位",
+                "couat": "维修",
+                "coumat": null,
+                "coucut": 1509984000000,
+                "coucute": 1510812714000,
+                "coumy": 200,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "3QR2TX",
+                "counm": "测试6位",
+                "couat": "维修",
+                "coumat": null,
+                "coucut": 1509984000000,
+                "coucute": 1510812780000,
+                "coumy": 200,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "AS3HAD",
+                "counm": "测试6位",
+                "couat": "维修",
+                "coumat": null,
+                "coucut": 1509984000000,
+                "coucute": 1510812810000,
+                "coumy": 200,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "1KH1L7",
+                "counm": "测试6位",
+                "couat": "清洗",
+                "coumat": null,
+                "coucut": 1509998400000,
+                "coucute": 1510812901000,
+                "coumy": 500,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "HRK9AC",
+                "counm": "测试6位",
+                "couat": "清洗",
+                "coumat": null,
+                "coucut": 1509998400000,
+                "coucute": 1510812944000,
+                "coumy": 500,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "JE5E08",
+                "counm": "测试6位",
+                "couat": "清洗",
+                "coumat": null,
+                "coucut": 1509998400000,
+                "coucute": 1510812967000,
+                "coumy": 500,
+                "cpdtlst": []
+            },
+            {
+                "coutp": 1,
+                "counum": "93FG5Q",
+                "counm": "测试6位",
+                "couat": "虚拟",
+                "coumat": "10",
+                "coucut": 1509984000000,
+                "coucute": 1510813010000,
+                "coumy": 999,
+                "cpdtlst": []
+            }
+        ]
+    }
+}

@@ -1,0 +1,471 @@
+{
+    "rpco": 200,
+    "tsrp": 1541666363482,
+    "body":
+    {
+        "templetList": [
+        {
+            "templetId": "4204378",
+            "templetVerson": "1.0",
+            "focusPhotoListTemplet": [
+            {
+                "scheme": "//wap.gomegj.com/yf/cleanlistnew.html",
+                "endDate": "2024-12-27 17:49:39",
+                "promsUrl": "//wap.gomegj.com/yf/cleanlistnew.html",
+                "imageUrl": "//gfs9.gomein.net.cn/wireless/T1_iY_B5Zv1RCvBVdK_750_332.jpg",
+                "promsType": 1,
+                "seq": 1,
+                "startDate": "2018-03-15 17:51:38"
+            },
+            {
+                "scheme": "//wap.gomegj.com/yf/repairphone.html",
+                "endDate": "2024-12-27 17:49:39",
+                "promsUrl": "//wap.gomegj.com/yf/repairphone.html",
+                "imageUrl": "//gfs12.gomein.net.cn/wireless/T18IYQBXZT1RCvBVdK_750_332.jpg",
+                "promsType": 1,
+                "seq": 2,
+                "startDate": "2018-03-15 17:51:38"
+            },
+            {
+                "scheme": "//prom.m.gome.com.cn/html/prodhtml/topics/201810/25/homeNg2jdk1vNpPls.html",
+                "endDate": "2018-11-12 23:55:55",
+                "promsUrl": "//prom.m.gome.com.cn/html/prodhtml/topics/201810/25/homeNg2jdk1vNpPls.html",
+                "imageUrl": "//gfs5.gomein.net.cn/wireless/T1X_WbBbKT1RCvBVdK_750_332.jpg",
+                "promsType": 1,
+                "seq": 3,
+                "startDate": "2018-11-01 09:17:19"
+            }],
+            "templetCode": "focusPhotoListTemplet",
+            "templateUseFlag": false
+        },
+        {
+            "templetId": "4204379",
+            "templetVerson": "1.0",
+            "tagShortcutTemplet":
+            {
+                "shortcutList": [
+                {
+                    "menuImg": "//gfs8.gomein.net.cn/T1s.VTBCDv1RCvBVdK.png",
+                    "scheme": "//m.gome.com.cn/shop-80011410.html?cmpid=gomegj_snm_weixin_public_gj_dpsyw_0327&from=gomegj",
+                    "menuLink": "//m.gome.com.cn/shop-80011410.html?cmpid=gomegj_snm_weixin_public_gj_dpsyw_0327&from=gomegj",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "家服务"
+                },
+                {
+                    "menuImg": "//gfs5.gomein.net.cn/T1iVhQBTET1RCvBVdK.png",
+                    "scheme": "//prom.m.gome.com.cn/html/prodhtml/topics/201810/15/saleoht8NLHiiYv.html?cmpid=gomegj_snm_weixin_public_gj_jdtqg_1022&from=gomegj",
+                    "menuLink": "//prom.m.gome.com.cn/html/prodhtml/topics/201810/15/saleoht8NLHiiYv.html?cmpid=gomegj_snm_weixin_public_gj_jdtqg_1022&from=gomegj",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "家生活"
+                },
+                {
+                    "menuImg": "//gfs8.gomein.net.cn/T1egKjBTVT1RCvBVdK.png",
+                    "scheme": "//market.m.gome.com.cn/?cmpid=gomegj_snm_weixin_public_gj_jbl_0315&from=gomegj",
+                    "menuLink": "//market.m.gome.com.cn/?cmpid=gomegj_snm_weixin_public_gj_jbl_0315&from=gomegj",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "家便利"
+                },
+                {
+                    "menuImg": "//gfs10.gomein.net.cn/wireless/T12xD_BCLv1RCvBVdK_100_100.png",
+                    "scheme": "//fx.m.gome.com.cn/hot",
+                    "menuLink": "//fx.m.gome.com.cn/hot",
+                    "menuCode": "10",
+                    "promoList": [
+                    {
+                        "endDate": "2022-03-06  10:27:08",
+                        "startDate": "2018-05-08  10:27:06"
+                    }],
+                    "pattern": "1",
+                    "menuName": "家百科"
+                }],
+                "platformType": 0
+            },
+            "templetCode": "tagShortcutTemplet",
+            "templateUseFlag": false
+        },
+        {
+            "templetId": "4204380",
+            "templetVerson": "1.0",
+            "tagShortcutTemplet":
+            {
+                "shortcutList": [
+                {
+                    "menuImg": "//gfs5.gomein.net.cn/T1izhgBTKT1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/airecyclebrand.html?cateid=12&catenm=%E6%89%8B%E6%9C%BA&arcode=110108&cpid=202",
+                    "menuLink": "//wap.gomegj.com/yf/airecyclebrand.html?cateid=12&catenm=%E6%89%8B%E6%9C%BA&arcode=110108&cpid=202",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "手机回收"
+                },
+                {
+                    "menuImg": "//gfs5.gomein.net.cn/T1yRYgBsDT1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/cleanlistnew.html",
+                    "menuLink": "//wap.gomegj.com/yf/cleanlistnew.html",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "清洗服务"
+                },
+                {
+                    "menuImg": "//gfs8.gomein.net.cn/T19pdbBTET1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/repairindexnew.html",
+                    "menuLink": "//wap.gomegj.com/yf/repairindexnew.html",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "家电维修"
+                },
+                {
+                    "menuImg": "//gfs7.gomein.net.cn/T14hd_B7DT1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/recycleindexnew.html",
+                    "menuLink": "//wap.gomegj.com/yf/recycleindexnew.html",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "家电回收"
+                },
+                {
+                    "menuImg": "//gfs8.gomein.net.cn/T1d4dbBTET1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/repairphone.html",
+                    "menuLink": "//wap.gomegj.com/yf/repairphone.html",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "手机维修"
+                },
+                {
+                    "menuImg": "//gfs6.gomein.net.cn/T1xTxQBvWT1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/orderall.html?odcate=11",
+                    "menuLink": "//wap.gomegj.com/yf/orderall.html?odcate=11",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "送货查询"
+                },
+                {
+                    "menuImg": "//gfs5.gomein.net.cn/T1DHJ_BsbT1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/orderall.html?odcate=301",
+                    "menuLink": "//wap.gomegj.com/yf/orderall.html?odcate=301",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "安装查询"
+                },
+                {
+                    "menuImg": "//gfs9.gomein.net.cn/T1JLxgB7YT1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/couponsactive3.html",
+                    "menuLink": "//wap.gomegj.com/yf/couponsactive3.html",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "领券中心"
+                },
+                {
+                    "menuImg": "//gfs8.gomein.net.cn/T1X9djBsDT1RCvBVdK.png",
+                    "scheme": "//m.gome.com.cn/?cmpid=gomegj_snm_weixin_public_gj_gmsy_1029&from=gomegj",
+                    "menuLink": "//m.gome.com.cn/?cmpid=gomegj_snm_weixin_public_gj_gmsy_1029&from=gomegj",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "国美商城"
+                },
+                {
+                    "menuImg": "//gfs8.gomein.net.cn/T1stWQBTET1RCvBVdK.png",
+                    "scheme": "//wap.gomegj.com/yf/myequipment.html",
+                    "menuLink": "//wap.gomegj.com/yf/myequipment.html",
+                    "menuCode": "10",
+                    "pattern": "1",
+                    "menuName": "我的设备"
+                }],
+                "platformType": 0
+            },
+            "templetCode": "tagShortcutTemplet",
+            "templateUseFlag": false
+        },
+        {
+            "bigSmallTemplet":
+            {
+                "templateType": 0,
+                "templateMargin": 1,
+                "templatePadding": 0,
+                "borderDisplay": 2,
+                "bigImgList": [
+                {
+                    "scheme": "//wap.gomegj.com/yf/acservicelist.html",
+                    "promsUrl": "//wap.gomegj.com/yf/acservicelist.html",
+                    "imageUrl": "//gfs8.gomein.net.cn/T1.HAQBvJT1RCvBVdK.jpg",
+                    "promsType": 1,
+                    "seq": 1
+                }],
+                "imgList": [
+                {
+                    "scheme": "//wap.gomegj.com/yf/virtual.html",
+                    "promsUrl": "//wap.gomegj.com/yf/virtual.html",
+                    "imageUrl": "//gfs6.gomein.net.cn/T1hzWbBgVT1RCvBVdK.jpg",
+                    "promsType": 1,
+                    "seq": 4
+                }],
+                "imgNum": 4,
+                "seqType": 1,
+                "smallImgList": [
+                {
+                    "scheme": "//wap.gomegj.com/yf/airecyclebrand.html?cateid=12&catenm=%E6%89%8B%E6%9C%BA&arcode=110108&cpid=202",
+                    "promsUrl": "//wap.gomegj.com/yf/airecyclebrand.html?cateid=12&catenm=%E6%89%8B%E6%9C%BA&arcode=110108&cpid=202",
+                    "imageUrl": "//gfs5.gomein.net.cn/T1kEhjBTJT1RCvBVdK.jpg",
+                    "promsType": 1,
+                    "seq": 2
+                },
+                {
+                    "scheme": "//wap.gomegj.com/yf/cleanlistnew.html",
+                    "promsUrl": "//wap.gomegj.com/yf/cleanlistnew.html",
+                    "imageUrl": "//gfs13.gomein.net.cn/wireless/T1RLKjBKKv1RCvBVdK_193_222.jpg",
+                    "promsType": 1,
+                    "seq": 3
+                }]
+            },
+            "templetId": "4204381",
+            "templetVerson": "1.0",
+            "templetCode": "bigSmallTemplet",
+            "templateUseFlag": false
+        },
+        {
+            "templetId": "4204387",
+            "templetVerson": "1.0",
+            "displayName": "管家精选",
+            "imgTxtTemplet":
+            {
+                "templateType": 0,
+                "displayType": "carousel",
+                "imgScale": "750*150",
+                "templateMargin": 0,
+                "imgTxtList": [
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9140116348-1130566182.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs9.gomein.net.cn/wireless/T1RHYjBmDv1RCvBVdK_216_216.jpg",
+                    "volatile1": "3478",
+                    "txtTitle": "vivo X23 幻夜蓝"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9140122524-1130595868.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs6.gomein.net.cn/wireless/T1GVK_BbWv1RCvBVdK_216_216.jpg",
+                    "volatile1": "1999",
+                    "txtTitle": "OPPO A7x冰焰蓝"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9140126124-1130572193.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs6.gomein.net.cn/wireless/T1pchsBmDT1RCvBVdK_216_216.jpg",
+                    "volatile1": "1999",
+                    "txtTitle": "小米8青春版深空灰"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9134241284-1123180967.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs9.gomein.net.cn/wireless/T12tZbBjhv1RCvBVdK_216_216.jpg",
+                    "volatile1": "1299",
+                    "txtTitle": "康佳43英寸蓝光节能窄边电视"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9134310099-1123241021.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs7.gomein.net.cn/wireless/T16sLvBmdv1RCvBVdK_216_216.jpg",
+                    "volatile1": "2899",
+                    "txtTitle": "美的520L对开门冰箱"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9140071914-1130567892.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs5.gomein.net.cn/wireless/T1CYAvB4__1RCvBVdK_216_216.jpg",
+                    "volatile1": "2299",
+                    "txtTitle": "海尔9kg滚筒洗衣机"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9134160458-1123110112.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs9.gomein.net.cn/wireless/T1CBLvBmYv1RCvBVdK_216_216.jpg",
+                    "volatile1": "1199",
+                    "txtTitle": "小天鹅7.5kg波轮洗衣机"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9140042132-1130039825.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs5.gomein.net.cn/wireless/T11WWQBb_T1RCvBVdK_216_216.jpg",
+                    "volatile1": "199",
+                    "txtTitle": "美的电磁炉C21-WT2120"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-A0006382372-pop8010976683.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs7.gomein.net.cn/wireless/T1cQLvB4Zv1RCvBVdK_216_216.jpg",
+                    "volatile1": "899",
+                    "txtTitle": "帅康燃气灶嵌入式 QA-E2-35B"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9134570041-1123510042.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs5.gomein.net.cn/wireless/T1CxC_B4Av1RCvBVdK_216_216.jpg",
+                    "volatile1": "2299",
+                    "txtTitle": "美的1.5匹智弧冷暖空调"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-9140069253-1130568173.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs6.gomein.net.cn/wireless/T1UrZvB7Vv1RCvBVdK_216_216.jpg",
+                    "volatile1": "1899",
+                    "txtTitle": "奥克斯 1.5匹冷暖定速空调"
+                },
+                {
+                    "imageLink": "//item.m.gome.com.cn/product-A0006449665-pop8011690990.html?cmpid=gomegj_snm_weixin_public_gj_gjjxe_0926&from=gomegj",
+                    "imageUrl": "//gfs8.gomein.net.cn/wireless/T1MtDbBm_T1RCvBVdK_216_216.jpg",
+                    "volatile1": "1799",
+                    "txtTitle": "TCL 1.5匹冷暖空调"
+                }],
+                "templatePadding": 0,
+                "borderDisplay": 0
+            },
+            "templetCode": "imgTxtTemplet",
+            "templateUseFlag": false
+        },
+        {
+            "templetId": "4204384",
+            "templetVerson": "1.0",
+            "focusPhotoListTemplet": [
+            {
+                "scheme": "//item.m.gome.com.cn/you_de_mai.html",
+                "endDate": "2018-11-13 13:38:16",
+                "promsUrl": "//item.m.gome.com.cn/you_de_mai.html",
+                "imageUrl": "//gfs8.gomein.net.cn/wireless/T1g_Z_BmEv1RCvBVdK_750_200.jpg",
+                "promsType": 1,
+                "seq": 1,
+                "startDate": "2018-10-10 13:37:51"
+            },
+            {
+                "scheme": "//wap.gomegj.com/yf/cleanlistnew.html",
+                "endDate": "2025-08-31 19:03:21",
+                "promsUrl": "//wap.gomegj.com/yf/cleanlistnew.html",
+                "imageUrl": "//gfs8.gomein.net.cn/T1TGxbBvJT1RCvBVdK.jpg",
+                "promsType": 1,
+                "seq": 2,
+                "startDate": "2018-03-15 19:03:20"
+            }],
+            "templetCode": "focusPhotoListTemplet",
+            "templateUseFlag": false
+        },
+        {
+            "templetId": "4204382",
+            "templetVerson": "1.0",
+            "scheme": "//wap.gomegj.com/yf/repairphone.html",
+            "promsUrl": "//wap.gomegj.com/yf/repairphone.html",
+            "displayName": "手机维修",
+            "imgTxtTemplet":
+            {
+                "templateType": 0,
+                "displayType": "threeColumn",
+                "imgScale": "750*150",
+                "templateMargin": 0,
+                "imgTxtList": [
+                {
+                    "imageLink": "//wap.gomegj.com/yf/repairbrand.html?eacid=12&eacnm=%E6%89%8B%E6%9C%BA&arcode=110108&v=56",
+                    "imageUrl": "//gfs9.gomein.net.cn/T182YgBTdT1RCvBVdK.jpg",
+                    "volatile1": "99元/台",
+                    "txtTitle": "iPhone6换电池"
+                },
+                {
+                    "imageLink": "//wap.gomegj.com/yf/repairbrand.html?eacid=12&eacnm=%E6%89%8B%E6%9C%BA&arcode=110108&v=56",
+                    "imageUrl": "//gfs9.gomein.net.cn/T1pChgBXCv1RCvBVdK.jpg",
+                    "volatile1": "229元/台",
+                    "txtTitle": "iPhone7P换外屏"
+                },
+                {
+                    "imageLink": "//wap.gomegj.com/yf/repairbrand.html?eacid=12&eacnm=%E6%89%8B%E6%9C%BA&arcode=110108&v=56",
+                    "imageUrl": "//gfs8.gomein.net.cn/T1dKAgBXbv1RCvBVdK.jpg",
+                    "volatile1": "329元/台",
+                    "txtTitle": "Mate8换外屏"
+                }],
+                "templatePadding": 0,
+                "borderDisplay": 0
+            },
+            "templetCode": "imgTxtTemplet",
+            "templetPromo": "更多",
+            "templateUseFlag": false
+        },
+        {
+            "templetId": "4204386",
+            "templetVerson": "1.0",
+            "scheme": "//m.gome.com.cn/shop_zdy-80011410_3.html?cmpid=gomegj_snm_weixin_public_gj_dpsyw_0327&from=gomegj",
+            "promsUrl": "//m.gome.com.cn/shop_zdy-80011410_3.html?cmpid=gomegj_snm_weixin_public_gj_dpsyw_0327&from=gomegj",
+            "displayName": "清洗服务",
+            "imgTxtTemplet":
+            {
+                "templateType": 0,
+                "displayType": "threeColumn",
+                "imgScale": "750*150",
+                "templateMargin": 0,
+                "imgTxtList": [
+                {
+                    "imageLink": "//wap.gomegj.com/yf/cleanlistnew.html",
+                    "imageUrl": "//gfs8.gomein.net.cn/wireless/T1HMYbB7xT1RCvBVdK_216_216.jpg",
+                    "volatile1": "118元/台",
+                    "txtTitle": "油烟机免拆洗"
+                },
+                {
+                    "imageLink": "//wap.gomegj.com/yf/cleanlistnew.html",
+                    "imageUrl": "//gfs5.gomein.net.cn/wireless/T1KNZ_B4Wv1RCvBVdK_216_216.jpg",
+                    "volatile1": "88元/台",
+                    "txtTitle": "洗衣机免拆洗"
+                },
+                {
+                    "imageLink": "//wap.gomegj.com/yf/cleanlistnew.html",
+                    "imageUrl": "//gfs9.gomein.net.cn/wireless/T1p9_jBThv1RCvBVdK_216_216.jpg",
+                    "volatile1": "118元/台",
+                    "txtTitle": "双门冰箱清洗"
+                }],
+                "templatePadding": 0,
+                "borderDisplay": 0
+            },
+            "templetCode": "imgTxtTemplet",
+            "templetPromo": "更多",
+            "templateUseFlag": false
+        },
+        {
+            "templetId": "4204385",
+            "templetVerson": "1.0",
+            "scheme": "//wap.gomegj.com/yf/recycleindexnew.html",
+            "promsUrl": "//wap.gomegj.com/yf/recycleindexnew.html",
+            "displayName": "热门回收",
+            "imgTxtTemplet":
+            {
+                "templateType": 0,
+                "displayType": "threeColumn",
+                "imgScale": "750*150",
+                "templateMargin": 0,
+                "imgTxtList": [
+                {
+                    "imageLink": "//wap.gomegj.com/yf/recycleinfo.html?catename=%E7%A9%BA%E8%B0%83&cateid=20&brdid=74&brdnm=%E6%A0%BC%E5%8A%9B&proid=196&attrnm=%E6%8C%82%E6%9C%BA&arcode=110108&v=56",
+                    "imageUrl": "//gfs8.gomein.net.cn/T1StCjByJv1RCvBVdK.jpg",
+                    "volatile1": "300",
+                    "txtTitle": "格力空调挂机最高达700元"
+                },
+                {
+                    "imageLink": "//wap.gomegj.com/yf/recycleinfo.html?catename=%E7%A9%BA%E8%B0%83&cateid=20&brdid=74&brdnm=%E6%A0%BC%E5%8A%9B&proid=272&attrnm=%E6%9F%9C%E6%9C%BA&arcode=110108&v=56",
+                    "imageUrl": "//gfs9.gomein.net.cn/T1eZK_BTVT1RCvBVdK.jpg",
+                    "volatile1": "700",
+                    "txtTitle": "格力空调柜机"
+                },
+                {
+                    "imageLink": "//wap.gomegj.com/yf/recycleinfo.html?catename=%E7%94%B5%E8%A7%86&cateid=19&brdid=119&brdnm=%E5%A4%8F%E6%99%AE&proid=844&attrnm=%E6%B6%B2%E6%99%B6%E7%94%B5%E8%A7%86&arcode=110108&v=56",
+                    "imageUrl": "//gfs9.gomein.net.cn/T1TVZgBXKv1RCvBVdK.jpg",
+                    "volatile1": "460",
+                    "txtTitle": "夏普电视"
+                }],
+                "templatePadding": 0,
+                "borderDisplay": 0
+            },
+            "templetCode": "imgTxtTemplet",
+            "templetPromo": "更多",
+            "templateUseFlag": false
+        }],
+        "pageInfo":
+        {
+            "cache_time": 10,
+            "promoName": "管家微信-V3.0（勿动，不要参照）",
+            "publishDate": "2018-11-02 10:30:24",
+            "sharePromo": "发现了超值活动，速来围观！",
+            "pageUrl": "//prom.m.gome.com.cn/html/prodhtml/topics/201803/15/homeNgOnix4eRdAmC.html",
+            "shareUrl": "//prom.m.gome.com.cn/html/prodhtml/topics/201803/15/homeNgOnix4eRdAmC.html",
+            "businessType": 4,
+            "keyProms": "homeNgOnix4eRdAmC"
+        },
+        "serverTime": "2018-11-08 16:39:23",
+        "isActivated": "Y",
+        "isSessionExpired": "N",
+        "successMessage": "成功生成HTML页面！",
+        "isSuccess": "Y"
+    }
+}

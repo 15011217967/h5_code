@@ -1,0 +1,25 @@
+{
+    "rpco": 200,
+    "body": {
+        "page": 1,
+        "total": 100,
+        "brands": [
+            {"bid":"A001", "bnm":"苹果", "enm":"Apple"},
+            {"bid":"A002", "bnm":"华为", "enm":"huawei"},
+            {"bid":"A003", "bnm":"三星2", "enm":"huawei"},
+            {"bid":"A004", "bnm":"小米3", "enm":"huawei"},
+            {"bid":"A005", "bnm":"魅族4", "enm":"huawei"},
+            {"bid":"A006", "bnm":"Vivo5", "enm":"huawei"},
+            {"bid":"A007", "bnm":"步步高6", "enm":"huawei"},
+            {"bid":"A008", "bnm":"酷派7", "enm":"huawei"},
+            {"bid":"A009", "bnm":"Oppo8", "enm":"huawei"},
+            {"bid":"A0010", "bnm":"锤子9", "enm":"huawei"},
+            {"bid":"A0011", "bnm":"联想10", "enm":"huawei"},
+            {"bid":"A0012", "bnm":"360啊11", "enm":"huawei"},
+            {"bid":"A0013", "bnm":"乐视12", "enm":"huawei"},
+            {"bid":"A0014", "bnm":"小辣椒13", "enm":"huawei"},
+            {"bid":"A0015", "bnm":"金立14", "enm":"huawei"},
+            {"bid":"A0016", "bnm":"中兴15", "enm":"huawei"}
+        ]
+    }
+}

@@ -1,0 +1,23 @@
+.mui-poppicker-btn-cancel{
+    border:none;
+    border-radius: 0;
+    background: none;
+    color: #666;
+}
+.mui-poppicker-btn-ok{
+    border:none;
+    border-radius: 0;
+    background: none;
+    color: #ff4b46;
+    
+}
+.mui-poppicker-header .mui-btn{
+    font-size: 16px;
+}
+
+p{
+    margin-bottom: 0;
+}
+a{
+    color: #333
+}

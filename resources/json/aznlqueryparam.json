@@ -1,0 +1,17 @@
+{
+    "rpco": 200,
+    "tsrp": 1512009854790,
+    "body": {
+        "success": false,
+        "errCode": 9,
+        "errMsg": "The order type [全部] is not supported.",
+        "resultObj": {
+            "dzqydm":"110102003",
+            "azwd":1,
+            "queryType":1,
+            "wbxtbh":"205",
+            "xsgsdm":1,
+            "xslx":"1"
+        }
+    }
+}

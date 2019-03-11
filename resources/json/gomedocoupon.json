@@ -1,0 +1,22 @@
+{
+  "rpco": 200,
+  "msg": "",
+  "body":{
+    "clist": [{
+      "couponId": 42,
+      "couponType": "清洗券",
+      "couponAmount": 10,
+      "exchangeNotes": "仅限制清洗服务使用",
+      "needGomedo": 1000,
+      "couponTypeId":0
+    },
+      {
+        "couponId": 41,
+        "couponType": "清洗券",
+        "couponAmount": 5,
+        "exchangeNotes": "仅限制清洗服务使用",
+        "needGomedo": 500,
+        "couponTypeId":0
+      }]
+  }
+}

@@ -1,0 +1,97 @@
+{
+    "rpco": 200,
+    "msg": "",
+    "tsrp": 0,
+    "dgva": null,
+    "ver": 0,
+    "body": [
+        {
+            "atdvtt": null,
+            "atdvte": null,
+            "odste": 66,
+            "gdsid": null,
+            "gdnm": null,
+            "gdpr": null,
+            "gdnu": null,
+            "gdiul": "http://placehold.it/100x100",
+            "ordNm": "GJDU00000000YLBX",
+            "odtype": 4194305,
+            "tbi": {
+                "serComp": "国美管家服务公司",
+                "serCompPhone": "400-200-01",
+                "delrComp":"配送公司",
+                "delrCompPhone": "400482025",
+                "freightId": "17347889385",
+                "deliveryId":"17347889385",
+                "insComp":"安迅物流",
+                "insCompPhone":"400482025",
+                "installId":"17347889385"
+            },
+            "sobi": {
+                "title": "iPhone5S(银(白色屏幕))",
+                "desc": "故障: 电源锁屏开关键",
+                "ots": 1473350400000,
+                "ote": 1473436800000,
+                "imgs": []
+            },
+            
+            "sdfmcl": [
+                {
+                    "sdfmst": 66,
+                    "sdfmwd": "我们会尽快与您取得联系确认上门维修时间，请保持电话通畅。",
+                    "sdfmtm": 1473390217000,
+                    "sdct": [
+                        "",
+                        ""
+                    ],
+                    "servant":{
+                        "id":"43434",
+                        "type":"安装员",
+                        "name":"小明",
+                        "headIcon":"http://placehold.it/100x100",
+                        "phone":15001060823
+
+                    },
+                    "gps":{
+                        "gpsStart":"116.301934,39.977552",
+                        "gpsEnd":"116.508328,39.819141",
+                        "gpsCurr":"116.312328,39.919141"
+                    }
+                    
+                },
+                {
+                    "sdfmst": 65,
+                    "sdfmwd": "您的订单已经审核通过，我们将尽快安排工程师上门维修。",
+                    "sdfmtm": 1473392278000,
+                    "sdct": [
+                        "",
+                        ""
+                    ],
+                    "servant":{
+                       
+
+                    },
+                    "gps":{
+                       
+                    }
+                },
+                {
+                    "sdfmst": 354,
+                    "sdfmwd": "工程师文阳电话: 13120822076已出发",
+                    "sdfmtm": 1473392286000,
+                    "sdct": [
+                        "文阳",
+                        "13120822076"
+                    ],
+                    "servant":{
+                       
+
+                    },
+                    "gps":{
+                       
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "rpco": 200,
+    "tsrp": 1511143878163,
+    "body": {
+        "code": "200",
+        "data": {
+            "articleInfo": {
+                "publishTime": 1505985862000,
+                "sqeno": 0,
+                "website": 0,
+                "isDelete": false,
+                "count": 63,
+                "updateTime": 1508205439000,
+                "isPC": 1,
+                "title": "我想办理退货，如何申请？",
+                "type": 0,
+                "metaDescription": "我想办理退货，如何申请？",
+                "content": "<p>PC端服务中心查询路径：</p><p>售后服务&nbsp;&gt;&nbsp;退换货政策-自营&nbsp;&gt;&nbsp;退换货流程-自营&nbsp;&gt;&nbsp;我想办理退换货，应该如何申请？</p><table width=\"608\"><tbody><tr><td width=\"284\" valign=\"top\">pc端内容<br/></td><td width=\"284\" valign=\"top\">APP端展示内容</td></tr><tr><td width=\"284\" valign=\"top\">在线提交退换货申请操作帮助：<br/>登录您的会员账户，点击“我的国美—订单中心—退换货单”，页面显示可办理退换货的订单，在需要办理退换货的订单下点击“申请”，根据页面提示填写完整信息后，点击提交。</td><td width=\"284\" valign=\"top\">在线提交退换货申请操作帮助：<br/>登录您的会员账户，点击“我的—退款/售后”，页面显示可办理退换货的订单，在需要办理退换货的订单右下角点击“申请售后”，根据页面提示填写完整信息后，点击提交。</td></tr></tbody></table><p>PC端截图：</p><p><img src=\"//gfs12.atguat.net.cn/T1PFhTB_hv1RCvBVdK.jpg\" title=\"1234\"/></p><p>APP端截图：</p><p><img src=\"//gfs13.atguat.net.cn/T1MXhTBsKT1RCvBVdK.png\" title=\"2222\"/><br/></p><p>2.如何查看订单？</p><p>PC端服务中心查询路径：</p><p>购物帮助&nbsp;&gt;&nbsp;购物流程&nbsp;&gt;&nbsp;订购流程&nbsp;&gt;&nbsp;如何查看订单？</p><p>PC端截图：</p><img src=\"//gfs12.atguat.net.cn/T1vFDTB5b_1RCvBVdK.png\" title=\"5555\"/><p>APP端截图：</p><p><br/></p><p>3.如何激活优惠券？</p><p>PC端服务中心查询路径：</p><p>会员专区&nbsp;&gt;&nbsp;优惠券说明&nbsp;&gt;&nbsp;优惠券激活&nbsp;&gt;&nbsp;如何激活优惠券？</p><table width=\"608\"><tbody><tr><td width=\"284\" valign=\"top\">pc端</td><td width=\"284\" valign=\"top\">APP端</td></tr><tr><td width=\"284\" valign=\"top\">1、登录国美，点击“我的国美”—“优惠券”<br/>2、点击“激活优惠券”<br/>3、填写手机上收到的编号和激活码，然后输入图片验证码，点击“激活”，激活成功后即可使用。</td><td width=\"284\" valign=\"top\">1、登录国美，点击“我的”—“优惠券”<br/>2、点击“激活优惠券”<br/>3、填写手机上收到的编号和激活码，然后输入图片验证码，点击“提交”，激活成功后即可使用。</td></tr></tbody></table><p>PC端截图：</p><p><img src=\"//gfs12.atguat.net.cn/T1YXdTBbhT1RCvBVdK.png\" title=\"8888\"/><br/></p><p><img src=\"//gfs12.atguat.net.cn/T1BFhTBT_v1RCvBVdK.png\" title=\"9999\"/><br/></p><p>APP端截图：</p><p><br/></p><p><img src=\"//gfs10.atguat.net.cn/T1uFJTBXCg1RCvBVdK.png\" title=\"1112\"/><img src=\"//gfs13.atguat.net.cn/T1OzYTBTVT1RCvBVdK.png\" title=\"1113\"/></p>",
+                "operator": "ermadmin",
+                "firstCatalogId": 300,
+                "secondCatalogId": 306,
+                "metaKeywords": "我想办理退货，如何申请？",
+                "createTime": 1505985862000,
+                "thirdCatalogId": -1,
+                "id": 5200,
+                "isMobile": 1,
+                "status": 1
+            }
+        },
+        "isSuccess": "Y"
+    }
+}

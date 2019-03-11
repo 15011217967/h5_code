@@ -1,0 +1,169 @@
+.clear {
+    clear: both;
+}
+
+.none {
+    display: none;
+}
+
+[data-dpr="1"] .font-22 {
+    font-size: 11px;
+}
+[data-dpr="2"] .font-22 {
+    font-size: 22px;
+}
+[data-dpr="3"] .font-22 {
+    font-size: 33px;
+}
+[data-dpr="1"] .font-28 {
+    font-size: 14px;
+}
+[data-dpr="2"] .font-28 {
+    font-size: 28px;
+}
+[data-dpr="3"] .font-28 {
+    font-size: 42px;
+}
+[data-dpr="1"] .font-30 {
+    font-size: 15px;
+}
+[data-dpr="2"] .font-30 {
+    font-size: 30px;
+}
+[data-dpr="3"] .font-30 {
+    font-size: 45px;
+}
+[data-dpr="1"] .font-48 {
+    font-size: 24px;
+}
+[data-dpr="2"] .font-48 {
+    font-size: 48px;
+}
+[data-dpr="3"] .font-48 {
+    font-size: 72px;
+}
+
+.margin-left-30 {
+    margin-left: 0.4rem;
+}
+
+.margin-bottom-30 {
+    margin-bottom: 0.4rem;
+}
+
+#citySelectComponent {
+    position: absolute;
+    top: 0px;
+    z-index: 9999;
+}
+
+.citySelect-content {
+    position: relative;
+    width: 100%;
+    text-align: left;
+    overflow: hidden;
+}
+
+.citySelect-allCity, .citySelect-hotCity {
+    width: 100%;
+    position: relative;
+}
+
+.citySelect-allCity ul, .citySelect-hotCity ul {
+    background: #fff;
+}
+
+.citySelect-allCity ul li, .citySelect-hotCity ul li {
+    margin: 0 0.8rem 0 1.106667rem;
+}
+
+.citySelect-letter {
+    height: 0;
+}
+
+.citySelect-text {
+    position: relative;
+    color: #262626;
+    height: 1.333333rem;
+    line-height: 1.333333rem;
+    box-sizing: border-box;
+}
+
+.citySelect-text i {
+    position: absolute;
+    left: -0.706667rem;
+    color: #999;
+}
+
+/* .citySelect-text:after {
+    content: "";
+    display: inline-block;
+    vertical-align: bottom;
+    width: 100%;
+    height: 1px;
+    background-color: #e3e3e3;
+    -webkit-transform: scaleY(.5);
+    transform: scaleY(.5);
+} */
+
+.citySelect-letterList {
+    position: fixed;
+    width: 0.8rem;
+    text-align: center;
+    text-align: center;
+    cursor: pointer;
+    overflow: hidden;
+    color: #576B95;
+    background: #fff;
+}
+
+.citySelect-letterList div {
+    width: 100%;
+    height: 3.7037%;
+}
+
+#citySelectComponent .tipsLetter {
+    position: absolute;
+    border-radius: 0.133333rem;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 1.6rem;
+    height: 1.6rem;
+    line-height: 1.6rem;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+    color: white;
+}
+
+#citySelectComponent .wrapper {
+    position: relative;
+    overflow: hidden;
+    background-color: #F3F5F7;
+}
+
+#citySelectComponent .scroller {
+    position: absolute;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    width: 100%;
+    -webkit-transform: translateZ(0);
+    -moz-transform: translateZ(0);
+    -ms-transform: translateZ(0);
+    -o-transform: translateZ(0);
+    transform: translateZ(0);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    -o-text-size-adjust: none;
+    text-size-adjust: none;
+}
+
+.bdr-bottom:after {
+    border-top: 1px solid #ddd;
+}

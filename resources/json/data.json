@@ -1,0 +1,23 @@
+{
+"rpco": 200,
+"msg": "",
+"body": {
+    "peasNum":153,
+    "AppraiseNum":2,
+    "installNum":3,
+    "nvoiceNum":7,
+    "couponNum":9,
+    "memberCardNum":100000,
+    "getPeasNum":11,
+    "goodlist":[{
+        "good":{
+            "goodid":"",
+            "goodimg":""
+         }
+    }
+        
+    ]
+    
+}
+}
+

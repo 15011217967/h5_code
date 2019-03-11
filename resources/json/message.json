@@ -1,0 +1,56 @@
+{
+    "rpco":200,
+    "tsrp":1511249088854,
+    "body": [
+         {
+            "msgType":1,
+            "unReadNum":8,
+            "data": [
+                 {
+                    "id":"1_10000008",
+                    "msgSrc":2,
+                    "userId":"1234567890",
+                    "orderNo":"xxxx",
+                    "orderType":2097153,
+                    "orderTime":1510730187561,
+                    "orderState":"2",
+                    "orderStateDesc":"已派工",
+                    "stateUpdateTime":1511249088854,
+                    "serviceCompany":null,
+                    "goodsName":"海尔电视58寸",
+                    "goodsPic":"http://gfs17.gomein.net.cn/T1TSxTB7KT1RCvBVdK_210.jpg",
+                    "messageType":1,
+                    "messageContent":"您的服务单#订单号#已分配至#xxx公司#，预计#xxx时间#为您上门维修。",
+                    "ifRead":1,
+                    "ctime":1510730187743,
+                    "utime":1510730691713
+                }
+            ]
+        },
+         {
+            "msgType":2,
+            "unReadNum":1,
+            "data": [
+                 {
+                    "id":"1_100000010",
+                    "msgSrc":3,
+                    "userId":"1234567890",
+                    "orderNo":"xxxx",
+                    "orderType":2097153,
+                    "orderTime":1510730187603,
+                    "orderState":"2",
+                    "orderStateDesc":"已派工",
+                    "stateUpdateTime":1510730187603,
+                    "serviceCompany":null,
+                    "goodsName":"海尔电视58寸",
+                    "goodsPic":"http://gfs17.gomein.net.cn/T1TSxTB7KT1RCvBVdK_210.jpg",
+                    "messageType":1,
+                    "messageContent":"您的服务单#订单号#已分配至#xxx公司#，预计#xxx时间#为您上门维修。",
+                    "ifRead":1,
+                    "ctime":1510730187742,
+                    "utime":1510730187742
+                }
+            ]
+        }
+    ]
+}

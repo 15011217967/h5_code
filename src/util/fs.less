@@ -1,0 +1,12 @@
+.mixinfont (@font){
+ 	font-size: @font; 
+ 	[data-dpr="2"] & { font-size: @font * 2; } 
+ 	[data-dpr="3"] & { font-size: @font * 3; } 
+ }
+
+.px2rem(@name,@px){
+	@{name}: (@px/75)*1rem;
+ }
+.px2remall(@name,@px1,@px2){
+		@{name}: (@px1/75)*1rem (@px2/75)*1rem;
+}

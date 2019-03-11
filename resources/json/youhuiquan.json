@@ -1,0 +1,25 @@
+{
+    "topbg": "//gfs11.gomein.net.cn/T1q8_QBChT1RCvBVdK.png",
+    "color": "#ebca97",
+    "coupons": [
+    {
+        "bg": "//gfs13.gomein.net.cn/T10tAgBCxT1RCvBVdK.png",
+        "id": 35,
+        "type": "v",
+        "mj": [
+        {
+            "m": 45,
+            "j": 1
+        }]
+    },
+    {
+        "bg": "//gfs10.gomein.net.cn/T1khZjBChT1RCvBVdK.png",
+        "id": 36,
+        "type": "v",
+        "mj": [
+        {
+            "m": 90,
+            "j": 2
+        }]
+    }]
+}

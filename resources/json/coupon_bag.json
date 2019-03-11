@@ -1,0 +1,118 @@
+{
+    "rpco": 200,
+    "instruction": "对json格式的介绍: type为券类型,v是虚拟充值,clean是清洗,repair是维修,bag是券包(可包含前三种); 当m字段有值时,该券为满减券;当m字段为null,该券为直降券",
+    "body":
+    {
+        "topbg": "//gfs10.gomein.net.cn/T1M8D_BgKT1RCvBVdK.png",
+        "color": "#1d1646",
+        "shareIcon": "http://gfs13.gomein.net.cn/T1ydVgBQDT1RCvBVdK.jpg",
+        "shareTxt": "88元超级大礼包拼手气，限时领限量抢~",
+        "coupons": [
+        {
+            "bg": "//gfs10.gomein.net.cn/T17DJQB7YT1RCvBVdK.png",
+            "id": 151,
+            "type": "v",
+            "price_type": "fullcut",
+            "mj": [
+            {
+                "m": 45,
+                "j": 1
+            }]
+        },
+        {
+            "bg": "//gfs10.gomein.net.cn/T17DJQB7YT1RCvBVdK.png",
+            "id": 152,
+            "type": "v",
+            "price_type": "fullcut",
+            "mj": [
+            {
+                "m": 90,
+                "j": 2
+            }]
+        },
+        {
+            "bg": "//gfs10.gomein.net.cn/T17DJQB7YT1RCvBVdK.png",
+            "id": 152,
+            "type": "v",
+            "price_type": "fullcut",
+            "mj": [
+            {
+                "m": 90,
+                "j": 2
+            }]
+        },
+        {
+            "bg": "//gfs11.gomein.net.cn/T1iahbB7KT1RCvBVdK.png",
+            "id": 180,
+            "type": "clean",
+            "price_type": "down",
+            "mj": [
+            {
+                "m": 100,
+                "j": 30
+            }]
+        },
+        {
+            "bg": "//gfs11.gomein.net.cn/T1iahbB7KT1RCvBVdK.png",
+            "id": 180,
+            "type": "clean",
+            "price_type": "fullcut",
+            "mj": [
+            {
+                "m": 190,
+                "j": 30
+            }]
+        },
+        {
+            "bg": "//gfs12.gomein.net.cn/T12fJQB7_T1RCvBVdK.png",
+            "id": 179,
+            "type": "repair",
+            "price_type": "down",
+            "mj": [
+            {
+                "m": 200,
+                "j": 50
+            }]
+        },
+        {
+            "bg": "//gfs12.gomein.net.cn/T12fJQB7_T1RCvBVdK.png",
+            "id": 179,
+            "type": "repair",
+            "price_type": "fullcut",
+            "mj": [
+            {
+                "m": 150,
+                "j": 50
+            }]
+        },
+        {
+            "bg": "//gfs11.gomein.net.cn/T1iahbB7KT1RCvBVdK.png",
+            "id": 181,
+            "type": "bag",
+            "mj": [
+            {
+                "m": null,
+                "j": 300
+            }],
+            "coupons": [
+                {
+                    "type": "repair",
+                    "price_type": "fullcut",
+                    "mj": [
+                    {
+                        "m": 200,
+                        "j": 100
+                    }]
+                },
+                {
+                    "type": "clean",
+                    "price_type": "down",
+                    "mj": [
+                    {
+                        "m": 300,
+                        "j": 200
+                    }]
+                }]
+        }
+    ]}
+}

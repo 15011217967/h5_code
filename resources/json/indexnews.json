@@ -1,0 +1,488 @@
+﻿{
+  "rpco": 200,
+  "tsrp": 1496200055064,
+  "body": [
+    {
+      "boxid": 11,
+      "title": "WAP首页顶部焦点图",
+      "widv": -1,
+      "heiv": -1,
+      "widh": -1,
+      "heih": -1,
+      "unit": 1,
+      "vwtm": -1,
+      "fst": 5,
+      "frames": [
+        {
+          "fmid": 15,
+          "title": "WAP首页顶部焦点图帧1",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 32,
+              "title": "手机维修",
+              "furi": "http://wap.gomegj.com/v2/repairbrand.html?eacid=12&eacnm=%E6%89%8B%E6%9C%BA&arcode=110105&v=56",
+              "ruri": "http://gfs10.gomein.net.cn/T1QghvBvbv1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        },
+        {
+          "fmid": 15,
+          "title": "WAP首页顶部焦点图帧2",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 32,
+              "title": "清洗",
+              "furi": " http://m.gome.com.cn/shop_zdy-80011410_3.html",
+              "ruri": "http://gfs13.gomein.net.cn/T1eTEvBjb_1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        },
+        {
+          "fmid": 16,
+          "title": "WAP首页顶部焦点图帧3",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 33,
+              "title": "鲜花",
+              "furi": "http://wap.gomegj.com/v2/goodsdetail.html?goodsID=7&v=56&from=singlemessage&isappinstalled=0",
+              "ruri": "http://gfs13.gomein.net.cn/T1YvLvB7Vj1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        },
+        {
+          "fmid": 17,
+          "title": "WAP首页顶部焦点图帧4",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 34,
+              "title": "智能锁718",
+              "furi": "http://m.gome.com.cn/shop_zdy-80011410_7.html",
+              "ruri": "http://gfs12.gomein.net.cn/T1dgdvBKdT1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        },
+        {
+          "fmid": 18,
+          "title": "WAP首页顶部焦点图帧5",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 35,
+              "title": "家电维修",
+              "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+              "ruri": "http://gfs11.gomein.net.cn/T10IdvBmVj1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        },
+        {
+          "fmid": 15,
+          "title": "WAP首页顶部焦点图帧6",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 32,
+              "title": "延保",
+              "furi": "http://d.eqxiu.com/s/rMwtqadG",
+              "ruri": "http://gfs10.gomein.net.cn/T1cvCvBsL_1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boxid": 10,
+      "title": "WAP首页九宫格位置",
+      "widv": -1,
+      "heiv": -1,
+      "widh": -1,
+      "heih": -1,
+      "unit": 1,
+      "vwtm": -1,
+      "fst": 5,
+      "frames": [
+        {
+          "fmid": 14,
+          "title": "WAP九宫格",
+          "type": 10,
+          "wdtp": 1,
+          "clxc": 6,
+          "clyc": 3,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 23,
+              "title": "三星718",
+              "furi": "http://item.m.gome.com.cn/product-A0006224052-pop8009991047.html?sId=pop8009991047&No=A0006224052&skipType=2",
+              "ruri": "http://gfs13.gomein.net.cn/T1TTLvBTKj1RCvBVdK.png",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 2,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "空调清洗",
+              "furi": "http://m.gome.com.cn/product-A0006275039-pop8010259008.html",
+              "ruri": "http://gfs13.gomein.net.cn/T1qvhvBCJj1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "限时抢购",
+              "furi": "http://q.m.gome.com.cn/?from=1.html&cmpid=bd_guanjia_20161220",
+              "ruri": "http://gfs11.gomein.net.cn/T1MobvBvbg1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "洗衣机清洗",
+              "furi": "http://m.gome.com.cn/product-A0005818633-pop8008796335.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1IPdvBmW_1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "ip6电池",
+              "furi": "http://item.m.gome.com.cn/product-A0006033807-pop8009175431.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1InhvBsdv1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 2,
+              "title": "油烟机免拆洗",
+              "furi": "http://m.gome.com.cn/product-A0005820755-pop8008711247.html",
+              "ruri": "http://gfs12.gomein.net.cn/T1gvdvBsDv1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 3,
+              "title": "iPhone换电池",
+              "furi": "http://item.m.gome.com.cn/product-A0005834680-pop8008762124.html",
+              "ruri": "http://gfs13.gomein.net.cn/T1b2_vBXxj1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 4,
+              "title": "非对开门冰洗清洗",
+              "furi": "http://m.gome.com.cn/product-A0005820813-pop8008711345.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1EPYvB7xv1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 5,
+              "title": "iPhone6s、6s plus更换电池",
+              "furi": "http://item.m.gome.com.cn/product-A0006033806-pop8009175430.html",
+              "ruri": "http://gfs11.gomein.net.cn/T1QwWvBTYg1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 6,
+              "title": "波轮洗衣机清洗",
+              "furi": "http://m.gome.com.cn/product-A0006033804-pop8009175428.html",
+              "ruri": "http://gfs13.gomein.net.cn/T1FIdvB7Y_1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 7,
+              "title": "iPhone6换外屏",
+              "furi": "http://item.m.gome.com.cn/product-A0006033813-pop8009175437.html",
+              "ruri": "http://gfs13.gomein.net.cn/T1pSJvB7h_1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 8,
+              "title": "三星728智能锁",
+              "furi": "http://item.m.gome.com.cn/product-A0006224090-pop8009991266.html",
+              "ruri": "http://gfs12.gomein.net.cn/T1LghvBjDv1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 9,
+              "title": "（团购价399）移康-R01H（先锋盾）移康智能电子猫眼防盗门可视门铃，安全易用，高清夜视",
+              "furi": "http://item.m.gome.com.cn/product-A0006194782-pop8009848423.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1CvYvB7xj1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 10,
+              "title": "1台壁挂+1台柜式空调清洗套餐送1年保修",
+              "furi": "http://m.gome.com.cn/product-A0006194317-pop8009845983.html",
+              "ruri": "http://gfs11.gomein.net.cn/T1xIDvB_Wv1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 11,
+              "title": "iPhone6plus更换电池",
+              "furi": "http://item.m.gome.com.cn/product-A0006190079-pop8009822126.html",
+              "ruri": "http://gfs11.gomein.net.cn/T10SWvBshg1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 12,
+              "title": "烟灶清洗套餐",
+              "furi": "http://m.gome.com.cn/product-A0006056872-pop8009299562.html",
+              "ruri": "http://gfs12.gomein.net.cn/T1QGdvB_Lv1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 13,
+              "title": "iPhone6s更换外屏",
+              "furi": "http://item.m.gome.com.cn/product-A0006033817-pop8009175441.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1LwhvBy_v1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 14,
+              "title": "地漏疏通（手动疏通）",
+              "furi": "http://item.m.gome.com.cn/product-A0006214354-pop8009944221.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1U2KvB_Y_1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 15,
+              "title": "移康wifi智能门铃",
+              "furi": "http://item.m.gome.com.cn/product-A0006194809-pop8009848560.html",
+              "ruri": "http://gfs12.gomein.net.cn/T18SWvB7Yj1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            }
+
+          ]
+        }
+      ]
+    },
+    {
+      "boxid": 12,
+      "title": "WAP首页单行单图位置",
+      "widv": -1,
+      "heiv": -1,
+      "widh": -1,
+      "heih": -1,
+      "unit": 1,
+      "vwtm": -1,
+      "fst": 5,
+      "frames": [
+        {
+          "fmid": 19,
+          "title": "WAP首页单行单图位置",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 36,
+              "title": "回收",
+              "furi": "http://wap.gomegj.com/v2/recycleindexnew.html",
+              "ruri": "http://gfs1.gomein.net.cn/T16CbvB4Cj1RCvBVdK",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 36,
+              "title": "维修",
+              "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+              "ruri": "http://gfs5.gomein.net.cn/T1WEAvBQWg1RCvBVdK",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 36,
+              "title": "清洗保养",
+              "furi": "http://wap.gomegj.com/v2/cleanlistnew.html",
+              "ruri": "http://gfs4.gomein.net.cn/T13kEvBgY_1RCvBVdK",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boxid": 12,
+      "title": "WAP首页单行单图位置",
+      "widv": -1,
+      "heiv": -1,
+      "widh": -1,
+      "heih": -1,
+      "unit": 1,
+      "vwtm": -1,
+      "fst": 5,
+      "frames": [
+        {
+          "fmid": 19,
+          "title": "WAP首页单行单图位置",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 36,
+              "title": "充值",
+              "furi": "http://wap.gomegj.com/v2/virtual.html?tle=gm",
+              "ruri": "http://gfs10.gomein.net.cn/T1ewLvBmWj1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 36,
+              "title": "品质维修",
+              "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+              "ruri": "http://gfs11.gomein.net.cn/T1OnEvBCEg1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "rpco": 200,
+    "tsrp": 1512718901920,
+    "body": {
+        "isRepair": 1,
+        "isRecovery": 0,
+        "isClean": 1,
+        "isInstructions": 0,
+        "repairType": null,
+        "gid": null,
+        "did": null,
+        "goods": {
+            "dqGoodsId": "100000023",
+            "dqGoodsName": "彩电配件-机顶盒参考商品",
+            "gjGoodsId": "20150100000023",
+            "gjGoodsName": "彩电配件-机顶盒参考商品",
+            "zxGoodsId": "123",
+            "zxGoodsName": null,
+            "model": null,
+            "dqBrandId": "241",
+            "dqCateId": "R0201003",
+            "gjBrandId": "241",
+            "gjCateId": "424257557767651331",
+            "zxBrandId": null,
+            "zxCateId": null
+        },
+        "scope": 15552000000
+    }
+}

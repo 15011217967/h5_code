@@ -1,0 +1,154 @@
+{
+  "rpco": 200,
+  "tsrp": 1496200055064,
+  "body": [
+    {
+      "boxid": 11,
+      "title": "WAP首页顶部焦点图",
+      "widv": -1,
+      "heiv": -1,
+      "widh": -1,
+      "heih": -1,
+      "unit": 1,
+      "vwtm": -1,
+      "fst": 5,
+      "frames": [
+        {
+          "fmid": 15,
+          "title": "WAP首页顶部焦点图帧1",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 32,
+              "title": "手机维修",
+              "furi": "/pages/repairindexnew/repairindexnew",
+              "ruri": "//gfs12.gomein.net.cn/T1kXJ_B_ET1RCvBVdK.jpg",
+              "extra": "",
+              "clxs": 0,
+              "clxe": 0,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boxid": 10,
+      "title": "WAP首页九宫格位置",
+      "widv": -1,
+      "heiv": -1,
+      "widh": -1,
+      "heih": -1,
+      "unit": 1,
+      "vwtm": -1,
+      "fst": 5,
+      "frames": [
+        {
+          "fmid": 14,
+          "title": "WAP九宫格",
+          "type": 10,
+          "wdtp": 1,
+          "clxc": 6,
+          "clyc": 3,
+          "ist": 0,
+          "ress": [
+            {
+              "rsid": 24,
+              "title": "手机维修",
+              "furi": "/pages/repairindexnew/repairbrand?eacid=12&eacnm=手机&arcode=110105",
+              "ruri": "//gfs10.gomein.net.cn/T1FhAgB4KT1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "家电维修",
+              "furi": "/pages/repairindexnew/repairindexnew",
+              "ruri": "//gfs12.gomein.net.cn/T1FaE_B4ZT1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "家电清洗",
+              "furi": "/pages/cleanlistnew/cleanlistnew",
+              "ruri": "//gfs13.gomein.net.cn/T17hb_B4CT1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "家电回收",
+              "furi": "/pages/recycleindexnew/recycleindexnew",
+              "ruri": "//gfs12.gomein.net.cn/T1UXWjB4KT1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "手机回收",
+              "furi": "/pages/recycleindexnew/recyclebrand?cateid=12&catenm=手机&arcode=110105",
+              "ruri": "//gfs13.gomein.net.cn/T17nh_B_dT1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            },
+            {
+              "rsid": 24,
+              "title": "手机充值",
+              "furi": "/pages/virtual/virtual",
+              "ruri": "//gfs11.gomein.net.cn/T1w3DgB4KT1RCvBVdK.png",
+              "extra": "",
+              "clxs": 3,
+              "clxe": 5,
+              "clys": 0,
+              "clye": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "boxid": 12,
+      "title": "WAP首页单行单图位置",
+      "widv": -1,
+      "heiv": -1,
+      "widh": -1,
+      "heih": -1,
+      "unit": 1,
+      "vwtm": -1,
+      "fst": 5,
+      "frames": [
+        {
+          "fmid": 19,
+          "title": "WAP首页单行单图位置",
+          "type": 2,
+          "wdtp": 1,
+          "clxc": 0,
+          "clyc": 0,
+          "ist": 0,
+          "ress": []
+        }
+      ]
+    }
+  ]
+}

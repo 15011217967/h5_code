@@ -1,0 +1,3544 @@
+{
+    "name": "品类品牌映射",
+    "data": [
+        {
+            "cateid": "424275157469626368",
+            "name": "手机",
+            "class": true,
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275157469888512",
+                    "name": "联通",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 2,
+                            "name": "苹果",
+                            "ename": "Apple"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 14,
+                            "name": "TCL",
+                            "ename": "TCL"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 20,
+                            "name": "索尼",
+                            "ename": "Sony"
+                        },
+                        {
+                            "id": 64,
+                            "name": "中兴",
+                            "ename": "ZTE"
+                        },
+                        {
+                            "id": 112,
+                            "name": "联想",
+                            "ename": "lenovo"
+                        },
+                        {
+                            "id": 241,
+                            "name": "AGM"
+                        },
+                        {
+                            "id": 818,
+                            "name": "华为"
+                        },
+                        {
+                            "id": 981,
+                            "name": "魅族",
+                            "ename": "MEIZU"
+                        },
+                        {
+                            "id": 1135,
+                            "name": "欧珀",
+                            "ename": "OPO"
+                        },
+                        {
+                            "id": 1203,
+                            "name": "酷派",
+                            "ename": "COLPAD"
+                        },
+                        {
+                            "id": 1454,
+                            "name": "天语"
+                        },
+                        {
+                            "id": 2585,
+                            "name": "荣耀"
+                        },
+                        {
+                            "id": 3800,
+                            "name": "乐视"
+                        },
+                        {
+                            "id": 3870,
+                            "name": "MI",
+                            "ename": "MI"
+                        },
+                        {
+                            "id": 4750,
+                            "name": "vivo",
+                            "ename": "vivo"
+                        },
+                        {
+                            "id": 4779,
+                            "name": "Smartisan",
+                            "ename": "Smartisan"
+                        },
+                        {
+                            "id": 23198,
+                            "name": "努比亚"
+                        },
+                        {
+                            "id": 33933,
+                            "name": "360",
+                            "ename": "360"
+                        },
+                        {
+                            "id": 35961,
+                            "name": "8848"
+                        },
+                        {
+                            "id": 37286,
+                            "name": "AGM",
+                            "ename": "AGM"
+                        },
+                        {
+                            "id": 41934,
+                            "name": "蓝色骨头"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275157470150656",
+                    "name": "移动",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 2,
+                            "name": "苹果",
+                            "ename": "Apple"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 6,
+                            "name": "长虹",
+                            "ename": "CHANGHONG"
+                        },
+                        {
+                            "id": 14,
+                            "name": "TCL",
+                            "ename": "TCL"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 64,
+                            "name": "中兴",
+                            "ename": "ZTE"
+                        },
+                        {
+                            "id": 72,
+                            "name": "摩托罗拉",
+                            "ename": "MOTO"
+                        },
+                        {
+                            "id": 112,
+                            "name": "联想",
+                            "ename": "lenovo"
+                        },
+                        {
+                            "id": 691,
+                            "name": "金立",
+                            "ename": "gionE"
+                        },
+                        {
+                            "id": 818,
+                            "name": "华为"
+                        },
+                        {
+                            "id": 981,
+                            "name": "魅族",
+                            "ename": "MEIZU"
+                        },
+                        {
+                            "id": 1124,
+                            "name": "酷比",
+                            "ename": "KOBE"
+                        },
+                        {
+                            "id": 1135,
+                            "name": "欧珀",
+                            "ename": "OPO"
+                        },
+                        {
+                            "id": 1203,
+                            "name": "酷派",
+                            "ename": "COLPAD"
+                        },
+                        {
+                            "id": 2399,
+                            "name": "朵唯",
+                            "ename": "DOV"
+                        },
+                        {
+                            "id": 2585,
+                            "name": "荣耀"
+                        },
+                        {
+                            "id": 3165,
+                            "name": "美图",
+                            "ename": "meitu"
+                        },
+                        {
+                            "id": 3618,
+                            "name": "语信"
+                        },
+                        {
+                            "id": 3780,
+                            "name": "e派",
+                            "ename": "EBEST"
+                        },
+                        {
+                            "id": 3800,
+                            "name": "乐视"
+                        },
+                        {
+                            "id": 3870,
+                            "name": "MI",
+                            "ename": "MI"
+                        },
+                        {
+                            "id": 4705,
+                            "name": "sugar",
+                            "ename": "sugar"
+                        },
+                        {
+                            "id": 4750,
+                            "name": "vivo",
+                            "ename": "vivo"
+                        },
+                        {
+                            "id": 4769,
+                            "name": "易百年"
+                        },
+                        {
+                            "id": 4779,
+                            "name": "Smartisan",
+                            "ename": "Smartisan"
+                        },
+                        {
+                            "id": 4972,
+                            "name": "IVVI",
+                            "ename": "IVVI"
+                        },
+                        {
+                            "id": 19991,
+                            "name": "乐锐"
+                        },
+                        {
+                            "id": 23198,
+                            "name": "努比亚"
+                        },
+                        {
+                            "id": 33933,
+                            "name": "360",
+                            "ename": "360"
+                        },
+                        {
+                            "id": 35442,
+                            "name": "CAPPU",
+                            "ename": "CAPPU"
+                        },
+                        {
+                            "id": 35678,
+                            "name": "21KE",
+                            "ename": "21KE"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275157470412800",
+                    "name": "电信",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 2,
+                            "name": "苹果",
+                            "ename": "Apple"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 14,
+                            "name": "TCL",
+                            "ename": "TCL"
+                        },
+                        {
+                            "id": 64,
+                            "name": "中兴",
+                            "ename": "ZTE"
+                        },
+                        {
+                            "id": 818,
+                            "name": "华为"
+                        },
+                        {
+                            "id": 1135,
+                            "name": "欧珀",
+                            "ename": "OPO"
+                        },
+                        {
+                            "id": 1203,
+                            "name": "酷派",
+                            "ename": "COLPAD"
+                        },
+                        {
+                            "id": 3870,
+                            "name": "MI",
+                            "ename": "MI"
+                        },
+                        {
+                            "id": 4750,
+                            "name": "vivo",
+                            "ename": "vivo"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275222967877632",
+            "name": "IT商品",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275222968139778",
+                    "name": "笔记本",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 109,
+                            "name": "惠普",
+                            "ename": "HP"
+                        },
+                        {
+                            "id": 112,
+                            "name": "联想",
+                            "ename": "lenovo"
+                        },
+                        {
+                            "id": 115,
+                            "name": "华硕",
+                            "ename": "ASUS"
+                        },
+                        {
+                            "id": 236,
+                            "name": "宏碁",
+                            "ename": "acer"
+                        },
+                        {
+                            "id": 388,
+                            "name": "戴尔",
+                            "ename": "DEL"
+                        },
+                        {
+                            "id": 389,
+                            "name": "神舟",
+                            "ename": "HASE"
+                        },
+                        {
+                            "id": 1813,
+                            "name": "THINKPAD",
+                            "ename": "THINKPAD"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275222968139779",
+                    "name": "平板电脑",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 112,
+                            "name": "联想",
+                            "ename": "lenovo"
+                        },
+                        {
+                            "id": 115,
+                            "name": "华硕",
+                            "ename": "ASUS"
+                        },
+                        {
+                            "id": 818,
+                            "name": "华为"
+                        },
+                        {
+                            "id": 4393,
+                            "name": "KINDLE",
+                            "ename": "KINDLE"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275222968139780",
+                    "name": "台式机主机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 109,
+                            "name": "惠普",
+                            "ename": "HP"
+                        },
+                        {
+                            "id": 112,
+                            "name": "联想",
+                            "ename": "lenovo"
+                        },
+                        {
+                            "id": 115,
+                            "name": "华硕",
+                            "ename": "ASUS"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275222968139781",
+                    "name": "台式机整机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 112,
+                            "name": "联想",
+                            "ename": "lenovo"
+                        },
+                        {
+                            "id": 236,
+                            "name": "宏碁",
+                            "ename": "acer"
+                        },
+                        {
+                            "id": 388,
+                            "name": "戴尔",
+                            "ename": "DEL"
+                        },
+                        {
+                            "id": 7814,
+                            "name": "ThinkCentre"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275222968139782",
+                    "name": "一体机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 109,
+                            "name": "惠普",
+                            "ename": "HP"
+                        },
+                        {
+                            "id": 112,
+                            "name": "联想",
+                            "ename": "lenovo"
+                        },
+                        {
+                            "id": 115,
+                            "name": "华硕",
+                            "ename": "ASUS"
+                        },
+                        {
+                            "id": 388,
+                            "name": "戴尔",
+                            "ename": "DEL"
+                        },
+                        {
+                            "id": 1813,
+                            "name": "THINKPAD",
+                            "ename": "THINKPAD"
+                        },
+                        {
+                            "id": 7814,
+                            "name": "ThinkCentre"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275222968664065",
+                    "name": "路由器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 3870,
+                            "name": "MI",
+                            "ename": "MI"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275217599168512",
+            "name": "照相机",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275217599430657",
+                    "name": "卡片相机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 793,
+                            "name": "卡西欧",
+                            "ename": "CASIO"
+                        },
+                        {
+                            "id": 1701,
+                            "name": "韩国现代",
+                            "ename": "HYUNDAI"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275158543368192",
+            "name": "摄像机",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275158543630341",
+                    "name": "双模摄像机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1701,
+                            "name": "韩国现代",
+                            "ename": "HYUNDAI"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275218672910336",
+            "name": "数码黑小",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275218673172484",
+                    "name": "电子词典",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 274,
+                            "name": "快易典"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275218673172487",
+                    "name": "掌上电脑",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 290,
+                            "name": "诺亚舟",
+                            "ename": "Noah"
+                        },
+                        {
+                            "id": 875,
+                            "name": "好记星"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275218673172546",
+                    "name": "GPS",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 33933,
+                            "name": "360",
+                            "ename": "360"
+                        },
+                        {
+                            "id": 36123,
+                            "name": "雄迈"
+                        },
+                        {
+                            "id": 37099,
+                            "name": "BLACKMAN",
+                            "ename": "BLACKMAN"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275218673172548",
+                    "name": "智能设备",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4888,
+                            "name": "乐心",
+                            "ename": "LIFesense"
+                        },
+                        {
+                            "id": 4986,
+                            "name": "IPS",
+                            "ename": "IPS"
+                        },
+                        {
+                            "id": 8724,
+                            "name": "爱贝多"
+                        },
+                        {
+                            "id": 23164,
+                            "name": "纽曼(Newmine)",
+                            "ename": "Newmine"
+                        },
+                        {
+                            "id": 33617,
+                            "name": "V.WO",
+                            "ename": "V.WO"
+                        },
+                        {
+                            "id": 33933,
+                            "name": "360",
+                            "ename": "360"
+                        },
+                        {
+                            "id": 34426,
+                            "name": "CDS",
+                            "ename": "CDS"
+                        },
+                        {
+                            "id": 34773,
+                            "name": "糖猫"
+                        },
+                        {
+                            "id": 34806,
+                            "name": "37°"
+                        },
+                        {
+                            "id": 35005,
+                            "name": "酷多啦"
+                        },
+                        {
+                            "id": 35317,
+                            "name": "OKAA",
+                            "ename": "OKAA"
+                        },
+                        {
+                            "id": 36055,
+                            "name": "加菲狗"
+                        },
+                        {
+                            "id": 36345,
+                            "name": "PUDDING",
+                            "ename": "PUDDING"
+                        },
+                        {
+                            "id": 36620,
+                            "name": "GOLiFE",
+                            "ename": "GOLiFE"
+                        },
+                        {
+                            "id": 37102,
+                            "name": "Simlens",
+                            "ename": "Simlens"
+                        },
+                        {
+                            "id": 37447,
+                            "name": "勇艺达"
+                        },
+                        {
+                            "id": 37605,
+                            "name": "BALING",
+                            "ename": "BALING"
+                        },
+                        {
+                            "id": 37606,
+                            "name": "YI",
+                            "ename": "YI"
+                        },
+                        {
+                            "id": 41274,
+                            "name": "慕派",
+                            "ename": "MIRPOP"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275218673696769",
+                    "name": "MP3",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 28903,
+                            "name": "喜马拉雅"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275289539870720",
+            "name": "卫浴电器",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275289540132865",
+                    "name": "燃气热水器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 86,
+                            "name": "樱花",
+                            "ename": "YINGFA"
+                        },
+                        {
+                            "id": 87,
+                            "name": "万家乐"
+                        },
+                        {
+                            "id": 91,
+                            "name": "阿里斯顿",
+                            "ename": "ariston"
+                        },
+                        {
+                            "id": 92,
+                            "name": "华帝",
+                            "ename": "vaTi"
+                        },
+                        {
+                            "id": 101,
+                            "name": "方太",
+                            "ename": "fotile"
+                        },
+                        {
+                            "id": 102,
+                            "name": "林内",
+                            "ename": "RINAI"
+                        },
+                        {
+                            "id": 104,
+                            "name": "帅康",
+                            "ename": "sacon"
+                        },
+                        {
+                            "id": 105,
+                            "name": "神州"
+                        },
+                        {
+                            "id": 208,
+                            "name": "康宝",
+                            "ename": "canbo"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        },
+                        {
+                            "id": 526,
+                            "name": "能率",
+                            "ename": "NORTZ"
+                        },
+                        {
+                            "id": 669,
+                            "name": "山城"
+                        },
+                        {
+                            "id": 690,
+                            "name": "前锋",
+                            "ename": "CHIFO"
+                        },
+                        {
+                            "id": 780,
+                            "name": "迅达",
+                            "ename": "XUNDA"
+                        },
+                        {
+                            "id": 3659,
+                            "name": "卡萨帝",
+                            "ename": "Casarte"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275289540132866",
+                    "name": "电热水器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 11,
+                            "name": "伊莱克斯",
+                            "ename": "Electrolux"
+                        },
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 86,
+                            "name": "樱花",
+                            "ename": "YINGFA"
+                        },
+                        {
+                            "id": 87,
+                            "name": "万家乐"
+                        },
+                        {
+                            "id": 91,
+                            "name": "阿里斯顿",
+                            "ename": "ariston"
+                        },
+                        {
+                            "id": 92,
+                            "name": "华帝",
+                            "ename": "vaTi"
+                        },
+                        {
+                            "id": 104,
+                            "name": "帅康",
+                            "ename": "sacon"
+                        },
+                        {
+                            "id": 208,
+                            "name": "康宝",
+                            "ename": "canbo"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        },
+                        {
+                            "id": 427,
+                            "name": "康泉",
+                            "ename": "KANCH"
+                        },
+                        {
+                            "id": 543,
+                            "name": "阿诗丹顿",
+                            "ename": "usaton"
+                        },
+                        {
+                            "id": 690,
+                            "name": "前锋",
+                            "ename": "CHIFO"
+                        },
+                        {
+                            "id": 780,
+                            "name": "迅达",
+                            "ename": "XUNDA"
+                        },
+                        {
+                            "id": 1050,
+                            "name": "万喜",
+                            "ename": "WANXI"
+                        },
+                        {
+                            "id": 1289,
+                            "name": "史麦斯",
+                            "ename": "SMALES"
+                        },
+                        {
+                            "id": 1359,
+                            "name": "邦太"
+                        },
+                        {
+                            "id": 1366,
+                            "name": "佳源",
+                            "ename": "jiayuan"
+                        },
+                        {
+                            "id": 3659,
+                            "name": "卡萨帝",
+                            "ename": "Casarte"
+                        },
+                        {
+                            "id": 4104,
+                            "name": "格美淇"
+                        },
+                        {
+                            "id": 11999,
+                            "name": "创高",
+                            "ename": "CHUANGO"
+                        },
+                        {
+                            "id": 24865,
+                            "name": "瑞美"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275289540132867",
+                    "name": "即热式热水器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 642,
+                            "name": "奥特朗",
+                            "ename": "OTLAN"
+                        },
+                        {
+                            "id": 1366,
+                            "name": "佳源",
+                            "ename": "jiayuan"
+                        },
+                        {
+                            "id": 4037,
+                            "name": "欧瑞德",
+                            "ename": "ORUID"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275289540132868",
+                    "name": "厨宝",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 86,
+                            "name": "樱花",
+                            "ename": "YINGFA"
+                        },
+                        {
+                            "id": 87,
+                            "name": "万家乐"
+                        },
+                        {
+                            "id": 91,
+                            "name": "阿里斯顿",
+                            "ename": "ariston"
+                        },
+                        {
+                            "id": 208,
+                            "name": "康宝",
+                            "ename": "canbo"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        },
+                        {
+                            "id": 4104,
+                            "name": "格美淇"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275289540132869",
+                    "name": "太阳能热水器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275289540132870",
+                    "name": "热泵(空气能热水器)",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 87,
+                            "name": "万家乐"
+                        },
+                        {
+                            "id": 91,
+                            "name": "阿里斯顿",
+                            "ename": "ariston"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275289540132871",
+                    "name": "地暖产品",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 86,
+                            "name": "樱花",
+                            "ename": "YINGFA"
+                        },
+                        {
+                            "id": 87,
+                            "name": "万家乐"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        },
+                        {
+                            "id": 526,
+                            "name": "能率",
+                            "ename": "NORTZ"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275149953433600",
+            "name": "彩电",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275149953695744",
+                    "name": "彩电",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 6,
+                            "name": "长虹",
+                            "ename": "CHANGHONG"
+                        },
+                        {
+                            "id": 7,
+                            "name": "乐华",
+                            "ename": "rowa"
+                        },
+                        {
+                            "id": 13,
+                            "name": "乐金",
+                            "ename": "LG"
+                        },
+                        {
+                            "id": 14,
+                            "name": "TCL",
+                            "ename": "TCL"
+                        },
+                        {
+                            "id": 15,
+                            "name": "创维",
+                            "ename": "SKYWORTH"
+                        },
+                        {
+                            "id": 16,
+                            "name": "康佳",
+                            "ename": "KONKA"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 18,
+                            "name": "三洋",
+                            "ename": "SANYO"
+                        },
+                        {
+                            "id": 20,
+                            "name": "索尼",
+                            "ename": "Sony"
+                        },
+                        {
+                            "id": 22,
+                            "name": "熊猫",
+                            "ename": "panda"
+                        },
+                        {
+                            "id": 56,
+                            "name": "夏普",
+                            "ename": "SHARP"
+                        },
+                        {
+                            "id": 117,
+                            "name": "清华同方"
+                        },
+                        {
+                            "id": 3800,
+                            "name": "乐视"
+                        },
+                        {
+                            "id": 4744,
+                            "name": "酷开",
+                            "ename": "COcA"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        },
+                        {
+                            "id": 36015,
+                            "name": "CAN",
+                            "ename": "CAN"
+                        },
+                        {
+                            "id": 37200,
+                            "name": "风行电视",
+                            "ename": "Fun TV"
+                        },
+                        {
+                            "id": 37218,
+                            "name": "暴风TV"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275151027175424",
+            "name": "空调",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275151027437568",
+                    "name": "家用空调",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 5,
+                            "name": "格力",
+                            "ename": "GrE"
+                        },
+                        {
+                            "id": 6,
+                            "name": "长虹",
+                            "ename": "CHANGHONG"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 11,
+                            "name": "伊莱克斯",
+                            "ename": "Electrolux"
+                        },
+                        {
+                            "id": 14,
+                            "name": "TCL",
+                            "ename": "TCL"
+                        },
+                        {
+                            "id": 30,
+                            "name": "日立",
+                            "ename": "hitachi"
+                        },
+                        {
+                            "id": 62,
+                            "name": "科龙",
+                            "ename": "KELON"
+                        },
+                        {
+                            "id": 306,
+                            "name": "奥克斯",
+                            "ename": "AUX"
+                        },
+                        {
+                            "id": 411,
+                            "name": "志高",
+                            "ename": "CHIGO"
+                        },
+                        {
+                            "id": 1311,
+                            "name": "大金",
+                            "ename": "DAIKIN"
+                        },
+                        {
+                            "id": 3659,
+                            "name": "卡萨帝",
+                            "ename": "Casarte"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275151027699712",
+                    "name": "商用空调",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 5,
+                            "name": "格力",
+                            "ename": "GrE"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 306,
+                            "name": "奥克斯",
+                            "ename": "AUX"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275152100917248",
+            "name": "冰箱",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275152101179393",
+                    "name": "单门冰箱",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 12,
+                            "name": "澳柯玛",
+                            "ename": "AUCMA"
+                        },
+                        {
+                            "id": 124,
+                            "name": "大宇"
+                        },
+                        {
+                            "id": 411,
+                            "name": "志高",
+                            "ename": "CHIGO"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275152101179394",
+                    "name": "双门冰箱",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 12,
+                            "name": "澳柯玛",
+                            "ename": "AUCMA"
+                        },
+                        {
+                            "id": 13,
+                            "name": "乐金",
+                            "ename": "LG"
+                        },
+                        {
+                            "id": 15,
+                            "name": "创维",
+                            "ename": "SKYWORTH"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 23,
+                            "name": "美菱",
+                            "ename": "MEILING"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        },
+                        {
+                            "id": 25,
+                            "name": "西门子",
+                            "ename": "Siemens"
+                        },
+                        {
+                            "id": 26,
+                            "name": "新飞",
+                            "ename": "Frestech"
+                        },
+                        {
+                            "id": 32,
+                            "name": "荣事达",
+                            "ename": "royalstar"
+                        },
+                        {
+                            "id": 124,
+                            "name": "大宇"
+                        },
+                        {
+                            "id": 286,
+                            "name": "星星",
+                            "ename": "Xingxing"
+                        },
+                        {
+                            "id": 411,
+                            "name": "志高",
+                            "ename": "CHIGO"
+                        },
+                        {
+                            "id": 476,
+                            "name": "现代"
+                        },
+                        {
+                            "id": 1474,
+                            "name": "华日",
+                            "ename": "huari"
+                        },
+                        {
+                            "id": 2746,
+                            "name": "奥马"
+                        },
+                        {
+                            "id": 4209,
+                            "name": "帝度",
+                            "ename": "DIQUA"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275152101179395",
+                    "name": "三门冰箱",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 11,
+                            "name": "伊莱克斯",
+                            "ename": "Electrolux"
+                        },
+                        {
+                            "id": 12,
+                            "name": "澳柯玛",
+                            "ename": "AUCMA"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 23,
+                            "name": "美菱",
+                            "ename": "MEILING"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        },
+                        {
+                            "id": 25,
+                            "name": "西门子",
+                            "ename": "Siemens"
+                        },
+                        {
+                            "id": 32,
+                            "name": "荣事达",
+                            "ename": "royalstar"
+                        },
+                        {
+                            "id": 56,
+                            "name": "夏普",
+                            "ename": "SHARP"
+                        },
+                        {
+                            "id": 476,
+                            "name": "现代"
+                        },
+                        {
+                            "id": 531,
+                            "name": "博世",
+                            "ename": "BOSCH"
+                        },
+                        {
+                            "id": 1474,
+                            "name": "华日",
+                            "ename": "huari"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275152101179396",
+                    "name": "多门冰箱",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 12,
+                            "name": "澳柯玛",
+                            "ename": "AUCMA"
+                        },
+                        {
+                            "id": 16,
+                            "name": "康佳",
+                            "ename": "KONKA"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 23,
+                            "name": "美菱",
+                            "ename": "MEILING"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        },
+                        {
+                            "id": 25,
+                            "name": "西门子",
+                            "ename": "Siemens"
+                        },
+                        {
+                            "id": 26,
+                            "name": "新飞",
+                            "ename": "Frestech"
+                        },
+                        {
+                            "id": 56,
+                            "name": "夏普",
+                            "ename": "SHARP"
+                        },
+                        {
+                            "id": 286,
+                            "name": "星星",
+                            "ename": "Xingxing"
+                        },
+                        {
+                            "id": 2746,
+                            "name": "奥马"
+                        },
+                        {
+                            "id": 3901,
+                            "name": "晶弘",
+                            "ename": "KINGHOME"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275152101179397",
+                    "name": "对开门冰箱",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 13,
+                            "name": "乐金",
+                            "ename": "LG"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 23,
+                            "name": "美菱",
+                            "ename": "MEILING"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        },
+                        {
+                            "id": 25,
+                            "name": "西门子",
+                            "ename": "Siemens"
+                        },
+                        {
+                            "id": 26,
+                            "name": "新飞",
+                            "ename": "Frestech"
+                        },
+                        {
+                            "id": 476,
+                            "name": "现代"
+                        },
+                        {
+                            "id": 1474,
+                            "name": "华日",
+                            "ename": "huari"
+                        },
+                        {
+                            "id": 3659,
+                            "name": "卡萨帝",
+                            "ename": "Casarte"
+                        },
+                        {
+                            "id": 3901,
+                            "name": "晶弘",
+                            "ename": "KINGHOME"
+                        },
+                        {
+                            "id": 12155,
+                            "name": "达米尼",
+                            "ename": "Damiele"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275154248400896",
+            "name": "冰柜",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275154248663041",
+                    "name": "卧式冰柜",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        },
+                        {
+                            "id": 1474,
+                            "name": "华日",
+                            "ename": "huari"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275154248663042",
+                    "name": "立式冰柜",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275153174659072",
+            "name": "洗衣机",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275153174921218",
+                    "name": "波轮洗衣机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 15,
+                            "name": "创维",
+                            "ename": "SKYWORTH"
+                        },
+                        {
+                            "id": 18,
+                            "name": "三洋",
+                            "ename": "SANYO"
+                        },
+                        {
+                            "id": 411,
+                            "name": "志高",
+                            "ename": "CHIGO"
+                        },
+                        {
+                            "id": 476,
+                            "name": "现代"
+                        },
+                        {
+                            "id": 3659,
+                            "name": "卡萨帝",
+                            "ename": "Casarte"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275153174921219",
+                    "name": "滚筒洗衣机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 16,
+                            "name": "康佳",
+                            "ename": "KONKA"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 18,
+                            "name": "三洋",
+                            "ename": "SANYO"
+                        },
+                        {
+                            "id": 25,
+                            "name": "西门子",
+                            "ename": "Siemens"
+                        },
+                        {
+                            "id": 27,
+                            "name": "小天鹅"
+                        },
+                        {
+                            "id": 531,
+                            "name": "博世",
+                            "ename": "BOSCH"
+                        },
+                        {
+                            "id": 3659,
+                            "name": "卡萨帝",
+                            "ename": "Casarte"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275153174921220",
+                    "name": "双缸洗衣机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 476,
+                            "name": "现代"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275227262844928",
+            "name": "办公设备",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275227264942080",
+                    "name": "打印机",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 333,
+                            "name": "兄弟",
+                            "ename": "brother"
+                        },
+                        {
+                            "id": 3895,
+                            "name": "奔图"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275227265204224",
+                    "name": "扫描仪",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 621,
+                            "name": "中晶"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275227279622144",
+                    "name": "投影机",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 20,
+                            "name": "索尼",
+                            "ename": "Sony"
+                        },
+                        {
+                            "id": 56,
+                            "name": "夏普",
+                            "ename": "SHARP"
+                        },
+                        {
+                            "id": 113,
+                            "name": "爱普生",
+                            "ename": "EPSON"
+                        },
+                        {
+                            "id": 16702,
+                            "name": "极米",
+                            "ename": "XGIMI"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275288466128896",
+            "name": "厨房电器",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275288466391040",
+                    "name": "烟机",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        },
+                        {
+                            "id": 25,
+                            "name": "西门子",
+                            "ename": "Siemens"
+                        },
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 86,
+                            "name": "樱花",
+                            "ename": "YINGFA"
+                        },
+                        {
+                            "id": 87,
+                            "name": "万家乐"
+                        },
+                        {
+                            "id": 88,
+                            "name": "欧帝",
+                            "ename": "ODIN"
+                        },
+                        {
+                            "id": 92,
+                            "name": "华帝",
+                            "ename": "vaTi"
+                        },
+                        {
+                            "id": 94,
+                            "name": "老板",
+                            "ename": "ROBAM"
+                        },
+                        {
+                            "id": 101,
+                            "name": "方太",
+                            "ename": "fotile"
+                        },
+                        {
+                            "id": 102,
+                            "name": "林内",
+                            "ename": "RINAI"
+                        },
+                        {
+                            "id": 104,
+                            "name": "帅康",
+                            "ename": "sacon"
+                        },
+                        {
+                            "id": 105,
+                            "name": "神州"
+                        },
+                        {
+                            "id": 208,
+                            "name": "康宝",
+                            "ename": "canbo"
+                        },
+                        {
+                            "id": 326,
+                            "name": "德意"
+                        },
+                        {
+                            "id": 526,
+                            "name": "能率",
+                            "ename": "NORTZ"
+                        },
+                        {
+                            "id": 690,
+                            "name": "前锋",
+                            "ename": "CHIFO"
+                        },
+                        {
+                            "id": 780,
+                            "name": "迅达",
+                            "ename": "XUNDA"
+                        },
+                        {
+                            "id": 809,
+                            "name": "欧意",
+                            "ename": "OUYI"
+                        },
+                        {
+                            "id": 1050,
+                            "name": "万喜",
+                            "ename": "WANXI"
+                        },
+                        {
+                            "id": 1289,
+                            "name": "史麦斯",
+                            "ename": "SMALES"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275288466653184",
+                    "name": "灶具",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 24,
+                            "name": "容声",
+                            "ename": "RONGSHENG"
+                        },
+                        {
+                            "id": 25,
+                            "name": "西门子",
+                            "ename": "Siemens"
+                        },
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 86,
+                            "name": "樱花",
+                            "ename": "YINGFA"
+                        },
+                        {
+                            "id": 87,
+                            "name": "万家乐"
+                        },
+                        {
+                            "id": 92,
+                            "name": "华帝",
+                            "ename": "vaTi"
+                        },
+                        {
+                            "id": 94,
+                            "name": "老板",
+                            "ename": "ROBAM"
+                        },
+                        {
+                            "id": 101,
+                            "name": "方太",
+                            "ename": "fotile"
+                        },
+                        {
+                            "id": 102,
+                            "name": "林内",
+                            "ename": "RINAI"
+                        },
+                        {
+                            "id": 105,
+                            "name": "神州"
+                        },
+                        {
+                            "id": 326,
+                            "name": "德意"
+                        },
+                        {
+                            "id": 526,
+                            "name": "能率",
+                            "ename": "NORTZ"
+                        },
+                        {
+                            "id": 690,
+                            "name": "前锋",
+                            "ename": "CHIFO"
+                        },
+                        {
+                            "id": 1050,
+                            "name": "万喜",
+                            "ename": "WANXI"
+                        },
+                        {
+                            "id": 1289,
+                            "name": "史麦斯",
+                            "ename": "SMALES"
+                        },
+                        {
+                            "id": 1392,
+                            "name": "康星",
+                            "ename": "konse"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275288466915328",
+                    "name": "洗碗机",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275288467177472",
+                    "name": "消毒柜",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 92,
+                            "name": "华帝",
+                            "ename": "vaTi"
+                        },
+                        {
+                            "id": 94,
+                            "name": "老板",
+                            "ename": "ROBAM"
+                        },
+                        {
+                            "id": 101,
+                            "name": "方太",
+                            "ename": "fotile"
+                        },
+                        {
+                            "id": 105,
+                            "name": "神州"
+                        },
+                        {
+                            "id": 208,
+                            "name": "康宝",
+                            "ename": "canbo"
+                        },
+                        {
+                            "id": 326,
+                            "name": "德意"
+                        },
+                        {
+                            "id": 684,
+                            "name": "樱雪",
+                            "ename": "INSE"
+                        },
+                        {
+                            "id": 1050,
+                            "name": "万喜",
+                            "ename": "WANXI"
+                        },
+                        {
+                            "id": 1289,
+                            "name": "史麦斯",
+                            "ename": "SMALES"
+                        },
+                        {
+                            "id": 23522,
+                            "name": "欧行",
+                            "ename": "ousang"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275288467439616",
+                    "name": "嵌入式烤箱",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 94,
+                            "name": "老板",
+                            "ename": "ROBAM"
+                        },
+                        {
+                            "id": 101,
+                            "name": "方太",
+                            "ename": "fotile"
+                        },
+                        {
+                            "id": 104,
+                            "name": "帅康",
+                            "ename": "sacon"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275288467701760",
+                    "name": "厨卫套餐",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 84,
+                            "name": "万和",
+                            "ename": "Vanward"
+                        },
+                        {
+                            "id": 101,
+                            "name": "方太",
+                            "ename": "fotile"
+                        },
+                        {
+                            "id": 27685,
+                            "name": "统帅",
+                            "ename": "Leader"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275288467963904",
+                    "name": "嵌入式微波炉",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 94,
+                            "name": "老板",
+                            "ename": "ROBAM"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275288468226048",
+                    "name": "厨房水处理设备",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275294908579840",
+            "name": "厨房小家电",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275294908841984",
+                    "name": "微波炉",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 10,
+                            "name": "格兰仕",
+                            "ename": "GALANZ"
+                        },
+                        {
+                            "id": 18,
+                            "name": "三洋",
+                            "ename": "SANYO"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275294909104128",
+                    "name": "电压力锅",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 150,
+                            "name": "苏泊尔",
+                            "ename": "supor"
+                        },
+                        {
+                            "id": 210,
+                            "name": "九阳",
+                            "ename": "Joyoung"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275294909366272",
+                    "name": "电饭煲",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 141,
+                            "name": "尚朋堂"
+                        },
+                        {
+                            "id": 150,
+                            "name": "苏泊尔",
+                            "ename": "supor"
+                        },
+                        {
+                            "id": 210,
+                            "name": "九阳",
+                            "ename": "Joyoung"
+                        },
+                        {
+                            "id": 4009,
+                            "name": "小熊"
+                        },
+                        {
+                            "id": 4452,
+                            "name": "TOSOT",
+                            "ename": "TOSOT"
+                        },
+                        {
+                            "id": 18814,
+                            "name": "康之品"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275294909628416",
+                    "name": "炊具",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 210,
+                            "name": "九阳",
+                            "ename": "Joyoung"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275294909890560",
+                    "name": "电水壶",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 32,
+                            "name": "荣事达",
+                            "ename": "royalstar"
+                        },
+                        {
+                            "id": 141,
+                            "name": "尚朋堂"
+                        },
+                        {
+                            "id": 150,
+                            "name": "苏泊尔",
+                            "ename": "supor"
+                        },
+                        {
+                            "id": 210,
+                            "name": "九阳",
+                            "ename": "Joyoung"
+                        },
+                        {
+                            "id": 411,
+                            "name": "志高",
+                            "ename": "CHIGO"
+                        },
+                        {
+                            "id": 1889,
+                            "name": "安博尔"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275294910152704",
+                    "name": "电磁炉",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 32,
+                            "name": "荣事达",
+                            "ename": "royalstar"
+                        },
+                        {
+                            "id": 141,
+                            "name": "尚朋堂"
+                        },
+                        {
+                            "id": 150,
+                            "name": "苏泊尔",
+                            "ename": "supor"
+                        },
+                        {
+                            "id": 210,
+                            "name": "九阳",
+                            "ename": "Joyoung"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275294910414848",
+                    "name": "食品加工机",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 150,
+                            "name": "苏泊尔",
+                            "ename": "supor"
+                        },
+                        {
+                            "id": 176,
+                            "name": "艾美特",
+                            "ename": "Airmate"
+                        },
+                        {
+                            "id": 210,
+                            "name": "九阳",
+                            "ename": "Joyoung"
+                        },
+                        {
+                            "id": 275,
+                            "name": "利仁",
+                            "ename": "LIREN"
+                        },
+                        {
+                            "id": 4698,
+                            "name": "惠人"
+                        },
+                        {
+                            "id": 4924,
+                            "name": "VITAMIX",
+                            "ename": "VITAMIX"
+                        },
+                        {
+                            "id": 4939,
+                            "name": "汉美驰"
+                        },
+                        {
+                            "id": 7966,
+                            "name": "UKOEO"
+                        },
+                        {
+                            "id": 13192,
+                            "name": "多尔玛"
+                        },
+                        {
+                            "id": 37122,
+                            "name": "小厨师"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275290613612544",
+            "name": "环境小家电",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275290613874689",
+                    "name": "电风扇",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 5,
+                            "name": "格力",
+                            "ename": "GrE"
+                        },
+                        {
+                            "id": 209,
+                            "name": "佳星",
+                            "ename": "Jasun"
+                        },
+                        {
+                            "id": 272,
+                            "name": "先锋",
+                            "ename": "SINGFUN"
+                        },
+                        {
+                            "id": 4440,
+                            "name": "爱家乐",
+                            "ename": "AKIRA"
+                        },
+                        {
+                            "id": 4452,
+                            "name": "TOSOT",
+                            "ename": "TOSOT"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275290613874690",
+                    "name": "电暖器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 5,
+                            "name": "格力",
+                            "ename": "GrE"
+                        },
+                        {
+                            "id": 176,
+                            "name": "艾美特",
+                            "ename": "Airmate"
+                        },
+                        {
+                            "id": 272,
+                            "name": "先锋",
+                            "ename": "SINGFUN"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275290613874691",
+                    "name": "空调扇",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 5,
+                            "name": "格力",
+                            "ename": "GrE"
+                        },
+                        {
+                            "id": 176,
+                            "name": "艾美特",
+                            "ename": "Airmate"
+                        },
+                        {
+                            "id": 209,
+                            "name": "佳星",
+                            "ename": "Jasun"
+                        },
+                        {
+                            "id": 3614,
+                            "name": "霍尼韦尔",
+                            "ename": "HoneyweL"
+                        },
+                        {
+                            "id": 4452,
+                            "name": "TOSOT",
+                            "ename": "TOSOT"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275290613874692",
+                    "name": "加湿器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 176,
+                            "name": "艾美特",
+                            "ename": "Airmate"
+                        },
+                        {
+                            "id": 2318,
+                            "name": "莱克"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275290613874694",
+                    "name": "空气净化器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 17,
+                            "name": "三星",
+                            "ename": "samsung"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 28,
+                            "name": "惠而浦",
+                            "ename": "whirlpOl"
+                        },
+                        {
+                            "id": 56,
+                            "name": "夏普",
+                            "ename": "SHARP"
+                        },
+                        {
+                            "id": 160,
+                            "name": "亚都",
+                            "ename": "YADU"
+                        },
+                        {
+                            "id": 176,
+                            "name": "艾美特",
+                            "ename": "Airmate"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        },
+                        {
+                            "id": 384,
+                            "name": "富士通",
+                            "ename": "Fujitsu"
+                        },
+                        {
+                            "id": 2318,
+                            "name": "莱克"
+                        },
+                        {
+                            "id": 3109,
+                            "name": "布鲁雅尔",
+                            "ename": "BLUE AIR"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275291687354368",
+            "name": "精品小家电",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275291687616513",
+                    "name": "剃须刀",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275291687616514",
+                    "name": "剃/脱毛器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 10829,
+                            "name": "奔腾(POVOS)",
+                            "ename": "POVOS"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275291687616515",
+                    "name": "电吹风",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 10829,
+                            "name": "奔腾(POVOS)",
+                            "ename": "POVOS"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275291687616516",
+                    "name": "美发器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 10829,
+                            "name": "奔腾(POVOS)",
+                            "ename": "POVOS"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275291687616517",
+                    "name": "美容器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275291687616519",
+                    "name": "口腔护理",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275291687878657",
+                    "name": "吸尘器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 489,
+                            "name": "百得",
+                            "ename": "BIOHIT"
+                        },
+                        {
+                            "id": 1685,
+                            "name": "科沃斯",
+                            "ename": "ECOVACS"
+                        },
+                        {
+                            "id": 2318,
+                            "name": "莱克"
+                        },
+                        {
+                            "id": 4476,
+                            "name": "IROBOT",
+                            "ename": "IROBOT"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275291687878658",
+                    "name": "电熨斗",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 8,
+                            "name": "松下",
+                            "ename": "Panasonic"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275295982321664",
+            "name": "水家电",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275295982583809",
+                    "name": "饮水机",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 23,
+                            "name": "美菱",
+                            "ename": "MEILING"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        },
+                        {
+                            "id": 365,
+                            "name": "沁园",
+                            "ename": "qinyuan"
+                        },
+                        {
+                            "id": 976,
+                            "name": "立升",
+                            "ename": "LITRE"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275295982845953",
+                    "name": "净水器",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 19462,
+                            "name": "莱卡"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275295983108097",
+                    "name": "水处理设备",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 4,
+                            "name": "美的",
+                            "ename": "midea"
+                        },
+                        {
+                            "id": 19,
+                            "name": "飞利浦",
+                            "ename": "philips"
+                        },
+                        {
+                            "id": 190,
+                            "name": "安吉尔",
+                            "ename": "Angel"
+                        },
+                        {
+                            "id": 210,
+                            "name": "九阳",
+                            "ename": "Joyoung"
+                        },
+                        {
+                            "id": 284,
+                            "name": "史密斯",
+                            "ename": "A.O.SMITH"
+                        },
+                        {
+                            "id": 365,
+                            "name": "沁园",
+                            "ename": "qinyuan"
+                        },
+                        {
+                            "id": 976,
+                            "name": "立升",
+                            "ename": "LITRE"
+                        },
+                        {
+                            "id": 3614,
+                            "name": "霍尼韦尔",
+                            "ename": "HoneyweL"
+                        },
+                        {
+                            "id": 5502,
+                            "name": "BWT",
+                            "ename": "BWT"
+                        },
+                        {
+                            "id": 37021,
+                            "name": "艾瑞生"
+                        },
+                        {
+                            "id": 40939,
+                            "name": "普尔尼斯"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275155322142720",
+            "name": "音响",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275155322667012",
+                    "name": "主音箱",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 6,
+                            "name": "长虹",
+                            "ename": "CHANGHONG"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275155323191298",
+                    "name": "一体式组合音响",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 385,
+                            "name": "JBL",
+                            "ename": "JBL"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275155323453441",
+                    "name": "多媒体音响",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1442,
+                            "name": "博士",
+                            "ename": "BOSE"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275287392387072",
+            "name": "办公家具",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275287393435650",
+                    "name": "保险箱",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 37263,
+                            "name": "Dahua",
+                            "ename": "Dahua"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257562062356480",
+            "name": "手机配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257562062618688",
+                    "name": "手机座/支架",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 3974,
+                            "name": "达利朗科"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424257562062618753",
+                    "name": "智能穿戴设备",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 2585,
+                            "name": "荣耀"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257564209840128",
+            "name": "电脑配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257564210364416",
+                    "name": "视听设备",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 115,
+                            "name": "华硕",
+                            "ename": "ASUS"
+                        },
+                        {
+                            "id": 3870,
+                            "name": "MI",
+                            "ename": "MI"
+                        },
+                        {
+                            "id": 4540,
+                            "name": "BEATS",
+                            "ename": "BEATS"
+                        },
+                        {
+                            "id": 37263,
+                            "name": "Dahua",
+                            "ename": "Dahua"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424257564210626560",
+                    "name": "辅助设备",
+                    "lvl": 5,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 388,
+                            "name": "戴尔",
+                            "ename": "DEL"
+                        },
+                        {
+                            "id": 818,
+                            "name": "华为"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257563136098304",
+            "name": "数码配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257563136884737",
+                    "name": "智能穿戴设备配件",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 33933,
+                            "name": "360",
+                            "ename": "360"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257557767389184",
+            "name": "彩电配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257557767651329",
+                    "name": "彩电配件-挂架",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        },
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        },
+                        {
+                            "id": 16,
+                            "name": "康佳",
+                            "ename": "KONKA"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424257557767651330",
+                    "name": "彩电配件-底座",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424257557767651331",
+                    "name": "彩电配件-机顶盒",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 3,
+                            "name": "海信",
+                            "ename": "hisense"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257559914872832",
+            "name": "冰洗配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257559915397123",
+                    "name": "洗衣机周边配件",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 1,
+                            "name": "海尔",
+                            "ename": "haier"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257558841131008",
+            "name": "空调配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257558841393154",
+                    "name": "空调配件-插线板",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 35593,
+                            "name": "插控儿"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257565283581952",
+            "name": "厨卫配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257565283844102",
+                    "name": "厨卫配件-水槽",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 86,
+                            "name": "樱花",
+                            "ename": "YINGFA"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424257566357323776",
+            "name": "小家电配件",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424257566357848072",
+                    "name": "黑小小件",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 33933,
+                            "name": "360",
+                            "ename": "360"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424275292761096192",
+            "name": "医疗保健",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424275292761620481",
+                    "name": "健身器材",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 3583,
+                            "name": "奥佳华"
+                        }
+                    ]
+                },
+                {
+                    "cateid": "424275292761882625",
+                    "name": "按摩椅",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 713,
+                            "name": "荣泰",
+                            "ename": "rongtai"
+                        },
+                        {
+                            "id": 3583,
+                            "name": "奥佳华"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        },
+        {
+            "cateid": "424349918891606016",
+            "name": "虚拟运营商",
+            "lvl": 4,
+            "children": [
+                {
+                    "cateid": "424349918892916739",
+                    "name": "虚拟运营商-增值服务移动",
+                    "lvl": 6,
+                    "children": [],
+                    "brands": [
+                        {
+                            "id": 224,
+                            "name": "中国移动",
+                            "ename": "China mobile"
+                        }
+                    ]
+                }
+            ],
+            "brands": []
+        }
+    ]
+}

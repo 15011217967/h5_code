@@ -1,0 +1,199 @@
+﻿{
+  "rpco": 200,
+  "body": [{
+      "title": "第一部分",
+      "frames": [{
+          "title": "WAP首页顶部焦点图帧1",
+          "ress": [{
+            "title": "手机维修",
+            "furi": "http://wap.gomegj.com/v2/repairbrand.html?eacid=12&eacnm=%E6%89%8B%E6%9C%BA&arcode=110105&v=56",
+            "ruri": "http://gfs10.gomein.net.cn/T1QghvBvbv1RCvBVdK.jpg"
+          }]
+        },
+        {
+          "title": "WAP首页顶部焦点图帧2",
+          "ress": [{
+            "title": "清洗",
+            "furi": " http://m.gome.com.cn/shop_zdy-80011410_3.html",
+            "ruri": "http://gfs13.gomein.net.cn/T1eTEvBjb_1RCvBVdK.jpg"
+          }]
+        },
+        {
+          "title": "WAP首页顶部焦点图帧3",
+          "ress": [{
+            "rsid": 33,
+            "title": "鲜花",
+            "furi": "http://wap.gomegj.com/v2/goodsdetail.html?goodsID=7&v=56&from=singlemessage&isappinstalled=0",
+            "ruri": "http://gfs13.gomein.net.cn/T1YvLvB7Vj1RCvBVdK.jpg"
+          }]
+        },
+        {
+          "title": "WAP首页顶部焦点图帧4",
+          "ress": [{
+            "rsid": 34,
+            "title": "智能锁718",
+            "furi": "http://m.gome.com.cn/shop_zdy-80011410_7.html",
+            "ruri": "http://gfs12.gomein.net.cn/T1dgdvBKdT1RCvBVdK.jpg"
+          }]
+        },
+        {
+          "title": "WAP首页顶部焦点图帧5",
+          "ress": [{
+            "title": "家电维修",
+            "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+            "ruri": "http://gfs11.gomein.net.cn/T10IdvBmVj1RCvBVdK.jpg"
+          }]
+        },
+        {
+          "title": "WAP首页顶部焦点图帧6",
+          "ress": [{
+            "title": "延保",
+            "furi": "http://d.eqxiu.com/s/rMwtqadG",
+            "ruri": "http://gfs10.gomein.net.cn/T1cvCvBsL_1RCvBVdK.jpg"
+          }]
+        }
+      ]
+    },
+    {
+      "title": "第四部分",
+      "goodsList": [{
+          "title": "第一块",
+          "ress": [{
+              "title": "空调清洗",
+              "furi": "http://item.m.gome.com.cn/product-A0006224052-pop8009991047.html?sId=pop8009991047&No=A0006224052&skipType=2",
+              "ruri": "http://gfs10.gomein.net.cn/T1FgJvBmdQ1RCvBVdK.png"
+            },
+            {
+              "title": "洗衣机清洗",
+              "furi": "http://m.gome.com.cn/product-A0006275039-pop8010259008.html",
+              "ruri": "http://gfs13.gomein.net.cn/T1E9dvBgZ_1RCvBVdK.png"
+            },
+            {
+              "title": "热水器清洗",
+              "furi": "http://q.m.gome.com.cn/?from=1.html&cmpid=bd_guanjia_20161220",
+              "ruri": "http://gfs12.gomein.net.cn/T1t9DvB4W_1RCvBVdK.png"
+            },
+            {
+              "title": "洗衣机清洗",
+              "furi": "http://m.gome.com.cn/product-A0005818633-pop8008796335.html",
+              "ruri": "http://gfs12.gomein.net.cn/T1lnJvBCCQ1RCvBVdK.png"
+            },
+            {
+              "title": "ip6电池",
+              "furi": "http://item.m.gome.com.cn/product-A0006033807-pop8009175431.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1UMJvBbJj1RCvBVdK.png"
+            },
+            {
+              "title": "充值,单行图",
+              "furi": "http://m.gome.com.cn/product-A0005820755-pop8008711247.html",
+              "ruri": "http://gfs11.gomein.net.cn/T1BMDvByV_1RCvBVdK.png"
+            }
+          ]
+        },
+        {
+          "title": "第二块",
+          "ress": [{
+              "title": "三星718",
+              "furi": "http://item.m.gome.com.cn/product-A0006224052-pop8009991047.html?sId=pop8009991047&No=A0006224052&skipType=2",
+              "ruri": "http://gfs13.gomein.net.cn/T1TTLvBTKj1RCvBVdK.png"
+            },
+            {
+              "title": "空调清洗",
+              "furi": "http://m.gome.com.cn/product-A0006275039-pop8010259008.html",
+              "ruri": "http://gfs13.gomein.net.cn/T1qvhvBCJj1RCvBVdK.png"
+            },
+            {
+              "title": "限时抢购",
+              "furi": "http://q.m.gome.com.cn/?from=1.html&cmpid=bd_guanjia_20161220",
+              "ruri": "http://gfs11.gomein.net.cn/T1MobvBvbg1RCvBVdK.png"
+            },
+            {
+              "title": "洗衣机清洗",
+              "furi": "http://m.gome.com.cn/product-A0005818633-pop8008796335.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1IPdvBmW_1RCvBVdK.png"
+            },
+            {
+              "title": "ip6电池",
+              "furi": "http://item.m.gome.com.cn/product-A0006033807-pop8009175431.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1InhvBsdv1RCvBVdK.png"
+            },
+            {
+              "title": "单行，礼物",
+              "furi": "http://item.m.gome.com.cn/product-A0006033807-pop8009175431.html",
+              "ruri": "http://gfs10.gomein.net.cn/T1ngZvBvdv1RCvBVdK.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "第二部分",
+      "frames": [{
+        "title": "WAP首页单行单图位置",
+        "ress": [{
+            "title": "维修",
+            "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+            "ruri": "http://gfs12.gomein.net.cn/T1C9JvB_Dj1RCvBVdK.png"
+          },
+          {
+            "title": "回收",
+            "furi": "http://wap.gomegj.com/v2/recycleindexnew.html",
+            "ruri": "http://gfs12.gomein.net.cn/T1ZgdvByA_1RCvBVdK.png"
+          },
+          {
+            "title": "清洗保养",
+            "furi": "http://wap.gomegj.com/v2/cleanlistnew.html",
+            "ruri": "http://gfs10.gomein.net.cn/T1beWvB7dQ1RCvBVdK.png"
+          },
+          {
+            "title": "更多",
+            "furi": "http://wap.gomegj.com/v2/cleanlistnew.html",
+            "ruri": "http://gfs11.gomein.net.cn/T1ZMKvBCJ_1RCvBVdK.png"
+          }
+        ]
+      }]
+    },
+    {
+      "title": "第三部分",
+      "frames": [{
+        "title": "WAP首页单行单图位置",
+        "ress": [{
+            "rsid": 36,
+            "title": "充值",
+            "furi": "http://wap.gomegj.com/v2/virtual.html?tle=gm",
+            "ruri": "http://gfs10.gomein.net.cn/T1ewLvBmWj1RCvBVdK.jpg"
+          },
+          {
+            "title": "品质维修",
+            "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+            "ruri": "http://gfs11.gomein.net.cn/T1OnEvBCEg1RCvBVdK.jpg"
+          },
+          {
+            "title": "礼物，单行图",
+            "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+            "ruri": "http://gfs10.gomein.net.cn/T1ngZvBvdv1RCvBVdK.png"
+          }
+        ]
+      }]
+    },
+    {
+      "title":"第四部分",
+      "frames":[
+        {
+          "title": "实物商品",
+          "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+          "ruri": "http://gfs11.gomein.net.cn/T1Yn_vB7V_1RCvBVdK.png",
+          "dis":"西门子9公斤变频滚筒洗 衣筒洗衣机(白色)",
+          "price":"8000.00"
+        },
+        {
+          "title": "实物商品",
+          "furi": "http://wap.gomegj.com/v2/repairindexnew.html",
+          "ruri": "http://gfs11.gomein.net.cn/T1Yn_vB7V_1RCvBVdK.png",
+          "dis":"西门子9公斤变频滚筒洗 衣筒洗衣机(白色)",
+          "price":"8000.00"
+        }
+      ]
+    }
+  ]
+}

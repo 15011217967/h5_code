@@ -1,0 +1,95 @@
+{
+    "rpco": 200,
+    "body": {
+        "cates": [
+            {
+                "cateid":"1",
+                "catenm":"3C",
+                "children":[
+                    {
+                        "cateid":"101",
+                        "catenm":"华为手机",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid": "102",
+                        "catenm": "苹果平板",
+                        "scpic": "//img.gomegj.com/guanjiaweb/pc/serial/1831.0"
+                    },
+                    {
+                        "cateid":"103",
+                        "catenm":"魅族手机",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid":"104",
+                        "catenm":"魅族手机",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid": "105",
+                        "catenm": "联想台式电脑",
+                        "scpic": "//img.gomegj.com/guanjiaweb/pc/serial/1831.0"
+                    }
+                ]
+            },
+            {
+                "cateid":"2",
+                "catenm":"家电",
+                "children":[
+                    {
+                        "cateid":"201",
+                        "catenm":"小天鹅冰箱",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid":"202",
+                        "catenm":"小天鹅冰箱",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid": "203",
+                        "catenm": "丑小鸭电饼铛",
+                        "scpic": "//img.gomegj.com/guanjiaweb/pc/serial/1831.0"
+                    },
+                    {
+                        "cateid":"204",
+                        "catenm":"大白兔电视机",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid": "205",
+                        "catenm": "霸王龙立式电冰箱",
+                        "scpic": "//img.gomegj.com/guanjiaweb/pc/serial/1831.0"
+                    }
+                ]
+            },
+            {
+                "cateid":"3",
+                "catenm":"配件",
+                "children":[
+                    {
+                        "cateid":"301",
+                        "catenm":"冰箱把手",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid": "302",
+                        "catenm": "丑小鸭电饼铛盖子",
+                        "scpic": "//img.gomegj.com/guanjiaweb/pc/serial/1831.0"
+                    },
+                    {
+                        "cateid":"303",
+                        "catenm":"电视机屏幕",
+                        "scpic":"//img.gomegj.com/guanjiaweb/pc/serial/1833.0"
+                    },
+                    {
+                        "cateid": "304",
+                        "catenm": "立式电冰箱底座",
+                        "scpic": "//img.gomegj.com/guanjiaweb/pc/serial/1831.0"
+                    }
+                ]
+            }
+        ]
+    }
+}

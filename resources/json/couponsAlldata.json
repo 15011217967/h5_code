@@ -1,0 +1,72 @@
+{
+    "rpco":200,
+    "tsrp":1533799509295,
+    "body":{
+        "topbg":"//gfs12.gomein.net.cn/T1g2KgB4bv1RCvBVdK.png",
+        "color":"#1d1646",
+        "shareIcon":"http://gfs12.gomein.net.cn/T1RtE_BshT1RCvBVdK.jpg",
+        "shareTxt":"耐住三伏天高温“烤”验，及时给家电降降温！空调清洗20元无门槛券限量领，券后59元，猛戳享优惠！",
+        "coupons":[
+            {
+                "bg":"//gfs13.gomein.net.cn/T1O9JjBmEv1RCvBVdK.png",
+                "id":94,
+                "type":"clean",
+                "price_type":"down",
+                "mj":[{"m":200,"j":20,"category":"空调"}]
+            },
+            {
+                "bg":"//gfs13.gomein.net.cn/T1O9JjBmEv1RCvBVdK.png",
+                "id":92,
+                "type":"clean",
+                "price_type":"fullcut",
+                "mj":[{"m":200,"j":30,"category":"油烟机"}]
+            },
+            {
+                "bg":"//gfs13.gomein.net.cn/T1MkhQBQdT1RCvBVdK.png",
+                "id":194,
+                "type":"v",
+                "price_type":"down",
+                "mj":[{"m":100,"j":10,"category":""}]
+            },
+            {
+                "bg":"//gfs13.gomein.net.cn/T1MkhQBQdT1RCvBVdK.png",
+                "id":195,
+                "type":"v",
+                "price_type":"fullcut",
+                "mj":[{"m":100,"j":10,"category":""}]
+            },
+            {
+                "bg":"//gfs13.gomein.net.cn/T1FaDsB7Yv1RCvBVdK.png",
+                "id":9,
+                "type":"repair",
+                "price_type":"down",
+                "mj":[{"m":220,"j":16,"category":"空调"}]
+            },
+            {
+                "bg":"//gfs13.gomein.net.cn/T1FaDsB7Yv1RCvBVdK.png",
+                "id":12,
+                "type":"repair",
+                "price_type":"fullcut",
+                "mj":[{"m":160,"j":30,"category":"油烟机"}]
+            }
+        ],
+        "body下所有字段配置说明": {
+            "topbg": "优惠券页面上部 大背景图",
+            "color": "暂无意义",
+            "shareIcon": "分享图标 缩略图",
+            "shareTxt": "分享文案描述",
+            "coupons": "券列表",
+            "单张券下相关字段配置说明": {
+                "bg": "虚拟券背景：//gfs13.gomein.net.cn/T1MkhQBQdT1RCvBVdK.png，维修券背景：//gfs13.gomein.net.cn/T1FaDsB7Yv1RCvBVdK.png，清洗券背景：//gfs13.gomein.net.cn/T1O9JjBmEv1RCvBVdK.png",
+                "id": "券id",
+                "type": "券分类,'clean'为清洗券,'repair'为维修券,'clean'为清洗券" ,
+                "price_type": "券价格类型,'down'为直降券,'fullcut'为满减券",
+                "mj": {
+                    "m": "满额字段(直降券时该字段不起作用,此时随意配置或不配置，如：'满100减20元',则m为100;'直降20元',则m为'')",
+                    "j": "减额字段(必须配置，如：'满100减20元',则j为20;'直降20元',则j为20)",
+                    "category": "品类用途说明(若该券为限制品类用券,则必须配置,如,'洗衣机'、'冰箱'; 若该券不限制品类用途,则为'')"
+                }
+            }
+        }
+    }
+}
